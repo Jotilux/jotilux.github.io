@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Junghacker - Programmieren für Kids</title>
+    <link>https://junghacker.de/posts/</link>
+    <description>Recent content in Posts on Junghacker - Programmieren für Kids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 12 Jul 2019 20:57:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://junghacker.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi</title>
+      <link>https://junghacker.de/posts/hi/</link>
+      <pubDate>Fri, 12 Jul 2019 20:57:52 +0200</pubDate>
+      
+      <guid>https://junghacker.de/posts/hi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
