@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://junghacker.de/posts/hi/</loc>
+    <lastmod>2019-07-12T20:57:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/</loc>
+    <lastmod>2019-07-12T20:57:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/posts/</loc>
+    <lastmod>2019-07-12T20:57:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/cs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/frlan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/likr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/nilo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team_old/jotilux/</loc>
+  </url>
+  
+</urlset>

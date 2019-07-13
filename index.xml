@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junghacker - Programmieren für Kids</title>
+    <link>https://junghacker.de/</link>
+    <description>Recent content on Junghacker - Programmieren für Kids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 12 Jul 2019 20:57:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://junghacker.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi</title>
+      <link>https://junghacker.de/posts/hi/</link>
+      <pubDate>Fri, 12 Jul 2019 20:57:52 +0200</pubDate>
+      
+      <guid>https://junghacker.de/posts/hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXX</title>
+      <link>https://junghacker.de/team_old/cs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/team_old/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXX</title>
+      <link>https://junghacker.de/team_old/frlan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/team_old/frlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXX</title>
+      <link>https://junghacker.de/team_old/likr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/team_old/likr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXX</title>
+      <link>https://junghacker.de/team_old/nilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/team_old/nilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jotilux</title>
+      <link>https://junghacker.de/team_old/jotilux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/team_old/jotilux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
