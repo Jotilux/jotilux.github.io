@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Junghacker - Programmieren für Kids</title>
+    <title>Home on Junghacker - Programmieren für Kids</title>
     <link>https://junghacker.de/</link>
-    <description>Recent content on Junghacker - Programmieren für Kids</description>
+    <description>Recent content in Home on Junghacker - Programmieren für Kids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jul 2019 20:57:52 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2019 00:49:18 +0200</lastBuildDate>
     
 	<atom:link href="https://junghacker.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Junghackertag im EBK</title>
+      <link>https://junghacker.de/junghackertagimebk/</link>
+      <pubDate>Fri, 12 Jul 2019 21:38:16 +0200</pubDate>
+      
+      <guid>https://junghacker.de/junghackertagimebk/</guid>
+      <description>An jedem vierten Samstag im Monat findet im Eigenbaukominat der Junghackertag statt.
+Du willst gerne deine eigenen Computerspiele entwickeln, mit Elektronik basteln und löten, kleine Roboter programmieren oder auch mit freier Software Medien produzieren und gestalten? Dann bist du bei uns genau richtig!
+Zusammen mit anderen Junghackern und mit der Unterstützung von erfahrenen Mentor*innen kannst du all das bei uns lernen.
+Für wen? Alle, die zwischen 10 und 18 Jahre alt sind, egal ob mit oder ohne Vorwissen Wann?</description>
+    </item>
+    
+    <item>
+      <title>Für Eltern</title>
+      <link>https://junghacker.de/fuereltern/</link>
+      <pubDate>Fri, 12 Jul 2019 21:37:36 +0200</pubDate>
+      
+      <guid>https://junghacker.de/fuereltern/</guid>
+      <description>Wir - die Organisator *innen und Mentor *innen des Junghackertages - sind Software-Entwickler *innen, Elektronik-Expert *innen, Medienpädagog *innen und Designer *innen und uns vereint die Freude an Technik und der Wunsch diese Begeisterung mit Kindern und Jugendlichen zu teilen. Denn wir glauben, dass es jetzt und in Zukunft immer wichtiger wird, zu verstehen, wie Technologien funktionieren und diese nicht nur unhinterfragt zu konsumieren. Deshalb machen wir Angebote für komplette Einsteiger *innen wie auch Fortgeschrittene.</description>
+    </item>
     
     <item>
       <title>Hi</title>

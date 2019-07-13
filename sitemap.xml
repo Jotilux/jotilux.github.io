@@ -3,14 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://junghacker.de/posts/hi/</loc>
-    <lastmod>2019-07-12T20:57:52+02:00</lastmod>
+    <loc>https://junghacker.de/</loc>
+    <lastmod>2019-07-13T00:49:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junghacker.de/</loc>
+    <loc>https://junghacker.de/junghackertagimebk/</loc>
+    <lastmod>2019-07-12T21:38:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/fuereltern/</loc>
+    <lastmod>2019-07-12T21:37:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/posts/hi/</loc>
     <lastmod>2019-07-12T20:57:52+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
