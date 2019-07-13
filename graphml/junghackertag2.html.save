@@ -1,0 +1,34 @@
+<html>
+<body>
+<!-- Reference to the Javascript file GraphMLViewer.js -->
+<script type="text/javascript" language="javascript" src="GraphMLViewer.js"></script>
+
+<script language="javascript" type="text/javascript">
+<!--
+
+// start the Viewer
+if (!RunPlayer(
+    "width", "100%",
+    "height", "100%",
+    "graphUrl", "example.grap",
+    "overview", "true",
+    "toolbar", "true",
+    "tooltips", "true",
+    "movable", "true",
+    "links", "true",
+    "linksInNewWindow", "true",
+    "viewport", "full"
+    )) {
+  // if RunPlayer() returns false: Flash Player is either too old or not installed
+  // in this case: try to install a current flash player
+  if (!InstallFlashUpdate("width", "100%", "height", "100%")) {
+    // Flash Player is too old for the auto-update or not installed at all
+    // Place alternative content here
+    document.write('This content requires the Adobe Flash Player 9.0.38 or higher. '
+        + '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>');
+  }
+}
+//-->
+</script>
+</body>
+</html>

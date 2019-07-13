@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>https://junghacker.de/blog/</loc>
+    <lastmod>2019-07-12T23:47:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/ressourcen/</loc>
+    <lastmod>2019-07-12T23:42:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/impressum/</loc>
+    <lastmod>2019-07-12T23:39:34+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/junghackertagimebk/</loc>
     <lastmod>2019-07-12T21:38:16+02:00</lastmod>
   </url>
@@ -23,9 +38,31 @@
   </url>
   
   <url>
+    <loc>https://junghacker.de/blog/blog2/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/blog/blog1/</loc>
+    <lastmod>2016-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/nilo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/</loc>
+  </url>
+  
+  <url>
     <loc>https://junghacker.de/posts/</loc>
     <lastmod>2019-07-12T20:57:52+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/steffenallner/</loc>
   </url>
   
   <url>
@@ -34,27 +71,60 @@
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/</loc>
+    <loc>https://junghacker.de/team/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/cs/</loc>
+    <loc>https://junghacker.de/team/core/yves/</loc>
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/frlan/</loc>
+    <loc>https://junghacker.de/team/core/alexh/</loc>
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/likr/</loc>
+    <loc>https://junghacker.de/team/core/cs/</loc>
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/nilo/</loc>
+    <loc>https://junghacker.de/team/core/danielk/</loc>
   </url>
   
   <url>
-    <loc>https://junghacker.de/team_old/jotilux/</loc>
+    <loc>https://junghacker.de/team/core/davidr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/folrikant/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/frlan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/honky/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/horstiane/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/jotilux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/likr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/maksim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junghacker.de/team/core/markusb/</loc>
   </url>
   
 </urlset>
