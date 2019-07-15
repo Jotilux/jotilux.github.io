@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>THEMEN on Junghacker - Programmieren für Kids</title>
+    <link>https://junghacker.de/sessions/</link>
+    <description>Recent content in THEMEN on Junghacker - Programmieren für Kids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://junghacker.de/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forensische Analysen</title>
+      <link>https://junghacker.de/sessions/forensische_analysen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/forensische_analysen/</guid>
+      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Fortgeschrittene-Forensische-Analysen</title>
+      <link>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/fortgeschrittene-forensische-analysen/</guid>
+      <description>&amp;lt;&amp;ndash; Full description &amp;ndash;&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux Fortgeschritten</title>
+      <link>https://junghacker.de/sessions/linux_fortgeschritten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/linux_fortgeschritten/</guid>
+      <description>This Expert Keynote is in english. Please stay away!</description>
+    </item>
+    
+    <item>
+      <title>Linux Grundlagen</title>
+      <link>https://junghacker.de/sessions/linux_grundlagen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/linux_grundlagen/</guid>
+      <description>Full description</description>
+    </item>
+    
+    <item>
+      <title>Löten Grundlagen</title>
+      <link>https://junghacker.de/sessions/l%C3%B6ten_grundlagen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/l%C3%B6ten_grundlagen/</guid>
+      <description>Ein Basic-Tutorial wie man Lötet. Löten lernen für Anfänger - Einfach erklärt https://wiki.raumzeitlabor.de/wiki/L%C3%B6ten_lernen</description>
+    </item>
+    
+    <item>
+      <title>Python Grundlagen</title>
+      <link>https://junghacker.de/sessions/python_grundlagen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/python_grundlagen/</guid>
+      <description>Full description</description>
+    </item>
+    
+    <item>
+      <title>Stoppmotion</title>
+      <link>https://junghacker.de/sessions/stoppmotion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/stoppmotion/</guid>
+      <description>Stop motion is an animated-film making technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion when the series of frames is played back as a fast sequence. Dolls with movable joints or clay figures are often used in stop motion for their ease of repositioning. Stop-motion animation using plasticine figures is called clay animation or &amp;ldquo;clay-mation&amp;rdquo;. Not all stop motion, however, requires figures or models: stop-motion films can also be made using humans, household appliances, and other objects, usually for comedic effect.</description>
+    </item>
+    
+    <item>
+      <title>mBot</title>
+      <link>https://junghacker.de/sessions/mbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junghacker.de/sessions/mbot/</guid>
+      <description>Full description</description>
+    </item>
+    
+  </channel>
+</rss>
