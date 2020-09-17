@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Falafel on Beautiful Hugo</title>
+    <link>https://username.github.io/tags/falafel/</link>
+    <description>Recent content in Falafel on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sat, 09 Jul 2016 08:35:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/tags/falafel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Koch- und Kennenlernabend: Es gibt Falafel!</title>
+      <link>https://username.github.io/koch-und-kennenlernabend-es-gibt-falafel/</link>
+      <pubDate>Sat, 09 Jul 2016 08:35:27 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://username.github.io/koch-und-kennenlernabend-es-gibt-falafel/</guid>
+      <description>Zum Koch- und Kennenlernabend im Juli (15. Juli 2016 ab 19h) möchten wir einen Biss in den mittleren Osten wagen. Dort gibt es eine Gemeinsamkeit, wie sie leckerer nicht sein kann: Falafel. Kurz gesagt, frittierte Bällchen aus Kichererbsen oder anderen Bohnen, verfeinert mit Gewürzen und gegessen mit verschiedenen Soßen, buntem Gemüse, Brot oder einfach auf die Hand. Ein beliebtes Fast Food, welches sich einfach selbst herstellen lässt.Wir werden gemeinsam Gemüse schnippeln und die Kichererbsenmasse vorbereiten, frittieren und am Ende natürlich auch essen.</description>
+    </item>
+    
+  </channel>
+</rss>

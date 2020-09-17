@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garten on Beautiful Hugo</title>
+    <link>https://username.github.io/tags/garten/</link>
+    <description>Recent content in Garten on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Mon, 04 May 2020 16:10:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/tags/garten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starten im &#39;Jarten</title>
+      <link>https://username.github.io/starten-im-jarten/</link>
+      <pubDate>Mon, 04 May 2020 16:10:12 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://username.github.io/starten-im-jarten/</guid>
+      <description>Der Winter hat seine Spuren hinterlassen, nun ist es an der Zeit unserem Garten wieder zu neuer Schönheit zu verhelfen. Anbei eine erste Bestandsaufnahme, für alle, die ihn schon vermissen.
+  *  *  *  *  *  *   Folgende Ideen wandern gerade im Kopf herum:
+ die grüne, vermoderte Sitzbank wieder mit neuem Holz versehen * den Komposter entleeren (Frühbeet?) und wieder fest zusammenbauen * Wasseranschluss/Gardena-Abzweig im Metall anbringen * einen Standort für den kleinen Gartenteich finden * die Sitzecke auf Vordermann bringen * &amp;hellip;  Her mit den Ideen, und her mit den helfenden Händen!</description>
+    </item>
+    
+  </channel>
+</rss>

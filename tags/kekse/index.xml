@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kekse on Beautiful Hugo</title>
+    <link>https://username.github.io/tags/kekse/</link>
+    <description>Recent content in Kekse on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Wed, 15 Nov 2017 00:41:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/tags/kekse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Es weihnachtet sehr!</title>
+      <link>https://username.github.io/es-weihnachtet-sehr/</link>
+      <pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://username.github.io/es-weihnachtet-sehr/</guid>
+      <description>Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!
+Wer probieren möchte, kommt einfach zum Koch- und Kennenlernabend am Freitag, da werden wir das Förmchen ausgiebig testen :)</description>
+    </item>
+    
+  </channel>
+</rss>
