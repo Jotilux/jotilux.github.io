@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nudeln on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/nudeln/</link>
-    <description>Recent content in Nudeln on Beautiful Hugo</description>
+    <title>Nudeln on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/nudeln/</link>
+    <description>Recent content in Nudeln on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Sat, 11 Mar 2017 21:10:43 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/nudeln/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/nudeln/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Koch- und Kennenlernabend im März: Frühling und Nudeln</title>
-      <link>https://username.github.io/koch-und-kennenlernabend-im-maerz-fruehling-und-nudeln/</link>
+      <link>https://jotilux.github.io/koch-und-kennenlernabend-im-maerz-fruehling-und-nudeln/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/koch-und-kennenlernabend-im-maerz-fruehling-und-nudeln/</guid>
+      
+      <guid>https://jotilux.github.io/koch-und-kennenlernabend-im-maerz-fruehling-und-nudeln/</guid>
       <description>Nachtrag: Bilder
 [gallery link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;11800,11801&amp;rdquo;]
 Schaut man nach draußen, merkt man es: Der Frühling hält Einzug im Land. Und mit dem Frühling kommen auch die ein oder anderen frischen Kraute und Kräuter zum Vorschein.

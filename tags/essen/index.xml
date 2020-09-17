@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essen on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/essen/</link>
-    <description>Recent content in Essen on Beautiful Hugo</description>
+    <title>Essen on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/essen/</link>
+    <description>Recent content in Essen on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Wed, 13 Mar 2019 16:49:02 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/essen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/essen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Koch- und Kennlernabend März - Wraps</title>
-      <link>https://username.github.io/koch-und-kennlernabend-maerz-wraps/</link>
+      <link>https://jotilux.github.io/koch-und-kennlernabend-maerz-wraps/</link>
       <pubDate>Wed, 13 Mar 2019 16:49:02 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/koch-und-kennlernabend-maerz-wraps/</guid>
+      
+      <guid>https://jotilux.github.io/koch-und-kennlernabend-maerz-wraps/</guid>
       <description>Mit verschieden Inhalten gewickeltes Brot ist überall auf der Welt bekannt: Man nimmt ein Fladenbrot und füllt es mit diversen Dingen.
 Bei unserem März Koch- und Kennenlernabend am 15.03. wollen wir in die Welt der Wraps eintauchen.
 Wie es sich für eine Mitmachwerkstatt gehört, bereiten wir gemeinsam alles vor und dann kann sich jeder seinen Wrap selber gestalten. Fruchtig oder durch lieber scharf? Mit oder ohne Zwiebeln? Paprika? Soße? Oder dann doch lieber “einmal alles” — Alles nach Wunsch und Lust und Laune.</description>
@@ -25,10 +23,10 @@ Wie es sich für eine Mitmachwerkstatt gehört, bereiten wir gemeinsam alles vor
     
     <item>
       <title>Koch- und Kennenlernabend im September: Dal</title>
-      <link>https://username.github.io/koch-und-kennenlernabend-im-september-dal/</link>
+      <link>https://jotilux.github.io/koch-und-kennenlernabend-im-september-dal/</link>
       <pubDate>Mon, 12 Sep 2016 21:11:04 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/koch-und-kennenlernabend-im-september-dal/</guid>
+      
+      <guid>https://jotilux.github.io/koch-und-kennenlernabend-im-september-dal/</guid>
       <description>Am 16. September kochen wir wieder gemeinsam: Diesmal gibt es eine Variation des in Indien und Umgebung beliebten Gerichtes &amp;ldquo;Dal&amp;rdquo;. Dazu werden Hülsenfrüchte, wir nehmen Linsen dazu, gemeinsam mit Gewürzen wie Kreuzkümmel, Knoblauch, Ingwer oder Chili zu einer Art Brei verkocht und mit Reis oder Brot serviert. Vielleicht gibt es dazu ja auch eine leckere selbstgemachte Limonade. 19h geht&amp;rsquo;s los.
 Für die Planung wäre eine Anmeldung im dudle schön.</description>
     </item>

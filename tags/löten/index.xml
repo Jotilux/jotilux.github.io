@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Löten on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/l%C3%B6ten/</link>
-    <description>Recent content in Löten on Beautiful Hugo</description>
+    <title>Löten on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/l%C3%B6ten/</link>
+    <description>Recent content in Löten on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Tue, 05 Dec 2017 19:10:37 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/l%C3%B6ten/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/l%C3%B6ten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weihnachtsworkshops im Eigenbaukombinat</title>
-      <link>https://username.github.io/weihnachtsworkshops-im-eigenbaukombinat/</link>
+      <link>https://jotilux.github.io/weihnachtsworkshops-im-eigenbaukombinat/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/weihnachtsworkshops-im-eigenbaukombinat/</guid>
+      
+      <guid>https://jotilux.github.io/weihnachtsworkshops-im-eigenbaukombinat/</guid>
       <description>Anlässlich des 2. Adventsspaziergangs Freiimfelde, lädt das Eigenbaukombinat zu weihnachtlichen Workshops in den verschiedenen Bereichen ein.
 Am 09. Dezember, von 16 bis 20 Uhr erwarten euch folgende Angebote: Gläser gravieren: Hier können Gläser mit eigenen Motiven selbst gestaltet werden  [gallery ids=&amp;ldquo;12597,12598&amp;rdquo;]
  LED Weihnachtsbäume löten: mit fertigen Bausätzen kann hier auch von Anfängern das Löten erlernt werden  [gallery ids=&amp;ldquo;12599,12600&amp;rdquo;]

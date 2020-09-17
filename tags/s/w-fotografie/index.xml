@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S/W-Fotografie on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/s/w-fotografie/</link>
-    <description>Recent content in S/W-Fotografie on Beautiful Hugo</description>
+    <title>S/W-Fotografie on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/s/w-fotografie/</link>
+    <description>Recent content in S/W-Fotografie on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Tue, 28 May 2013 15:21:23 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/s/w-fotografie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/s/w-fotografie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Grundkurs Analoge Fotografie - S/W-Entwicklung</title>
-      <link>https://username.github.io/workshop-analogfotoentwicklung/</link>
+      <link>https://jotilux.github.io/workshop-analogfotoentwicklung/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/workshop-analogfotoentwicklung/</guid>
+      
+      <guid>https://jotilux.github.io/workshop-analogfotoentwicklung/</guid>
       <description>**TERMINE**  Sonntag, 22. April 2018, 14 Uhr   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  maximal 3   **KOSTEN**  ca. 10 EUR   **KURSLEITER**  David Rauh   **ORT**  Eigenbaukombinat   **INHALT**  Der Workshop dient dazu, den Einstieg in die Entwicklung von S/W-Negativ-Filmen und die Vergrößerung auf Papier zu bieten. Nach einer kurzen theoretischen Einführung wird es direkt in die Dunkelkammer gehen.</description>
     </item>
     

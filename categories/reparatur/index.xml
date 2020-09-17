@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reparatur on Beautiful Hugo</title>
-    <link>https://username.github.io/categories/reparatur/</link>
-    <description>Recent content in Reparatur on Beautiful Hugo</description>
+    <title>Reparatur on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/categories/reparatur/</link>
+    <description>Recent content in Reparatur on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Sat, 23 Nov 2019 09:51:09 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/categories/reparatur/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/categories/reparatur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blick über den Tellerrand (50)</title>
-      <link>https://username.github.io/blick-ueber-den-tellerrand-50/</link>
+      <link>https://jotilux.github.io/blick-ueber-den-tellerrand-50/</link>
       <pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/blick-ueber-den-tellerrand-50/</guid>
+      
+      <guid>https://jotilux.github.io/blick-ueber-den-tellerrand-50/</guid>
       <description>Der Tellerrand wird 50, juchu! Heute mit:
  einer Nachttischlampe aus Holz + Epoxidharz, * der Restauration eines alten Hammers, und * einem kleinen Nähprojekt für Zwischendurch.  </description>
     </item>
     
     <item>
       <title>Schnappschüsse (10)</title>
-      <link>https://username.github.io/schnappschuesse-10/</link>
+      <link>https://jotilux.github.io/schnappschuesse-10/</link>
       <pubDate>Mon, 04 Nov 2019 11:00:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/schnappschuesse-10/</guid>
+      
+      <guid>https://jotilux.github.io/schnappschuesse-10/</guid>
       <description>Reparatur einer Fahrradlampe (B&amp;amp;M IXON IQ), ein kaputter Toaster und eine neue Kamera für den AudioVideo-Bereich.
 Schnappverschluss Fahrradlampe IXON IQ Der Schnappverschluss B&amp;amp;M IXON IQ ist leider beim Herunterfallen kaputtgegangen. Da es als Ersatzteil nur die komplette untere Klappe gibt, aber glücklicherweise ein Ersatzteil bei Thingiverse verfügbar ist, haben wir eins auf dem 3D-Drucker ausgedruckt. Material PET-G, Drucktemperatur 240°C, Schichtdicke 0.08mm, Druckbreite 0.4mm (Düsendurchmesser).
  Frisch gedruckt. * Vergleich mit dem Original * Passt!</description>
@@ -35,10 +33,10 @@ Schnappverschluss Fahrradlampe IXON IQ Der Schnappverschluss B&amp;amp;M IXON IQ
     
     <item>
       <title>Schnappschüsse (9)</title>
-      <link>https://username.github.io/schnappschuesse-9/</link>
+      <link>https://jotilux.github.io/schnappschuesse-9/</link>
       <pubDate>Fri, 01 Nov 2019 09:03:22 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/schnappschuesse-9/</guid>
+      
+      <guid>https://jotilux.github.io/schnappschuesse-9/</guid>
       <description>Die Platten-Verleimpresse im Einsatz, Rasseln aus Kokosnüssen selbstgebaut, und Reparatur des Schalters einer Tischlampe.
 Verleimpresse Wer aus einzelnen Lamellen selber Tischplatten herstellen will, gern auch aus schönem Massivholz wie Eiche oder Walnuss, braucht dazu eine Verleimpresse. Wir haben eine solche vor Ort, und auf geht&amp;rsquo;s zum Test, ob alles passt!
   *   Kokosnuss-Rasseln Kokosnüsse aufschneiden, Füllung rein, und mit Restholz wieder zuleimen. Die Oberflächen freuen sich auch nochmal über Feinschliff&amp;hellip; und fertig sind natürliche Rasseln!</description>
@@ -46,29 +44,29 @@ Verleimpresse Wer aus einzelnen Lamellen selber Tischplatten herstellen will, ge
     
     <item>
       <title>Renault Twizy: Ladeklappe reparieren</title>
-      <link>https://username.github.io/renault-twizy-ladeklappe-reparieren/</link>
+      <link>https://jotilux.github.io/renault-twizy-ladeklappe-reparieren/</link>
       <pubDate>Wed, 16 Oct 2019 10:00:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/renault-twizy-ladeklappe-reparieren/</guid>
+      
+      <guid>https://jotilux.github.io/renault-twizy-ladeklappe-reparieren/</guid>
       <description>Beim Renault Twizy meiner Eltern, der ein super Stadtflitzer mit Elektroantrieb ist, gehen leider bei der Ladeklappe oft die Kunststoffscharniere kaputt. Als Ersatzteil müsste eine komplett neue Klappe eingebaut werden, die über 40 EUR kostet und extra aus Frankreich angeliefert werden muss. Da ich gerne mit FreeCAD konstruiere, und wir ja 3D-Drucker im Eigenbaukombinat haben, war die Lösung naheliegend!
     Die Konstruktion in FreeCAD habe ich nach den abgebrochenen Scharnieren dimensioniert.</description>
     </item>
     
     <item>
       <title>Kleine Reparaturen große Wirkung</title>
-      <link>https://username.github.io/kleine-reparaturen-grosse-wirkung/</link>
+      <link>https://jotilux.github.io/kleine-reparaturen-grosse-wirkung/</link>
       <pubDate>Fri, 12 Oct 2018 15:46:08 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/kleine-reparaturen-grosse-wirkung/</guid>
+      
+      <guid>https://jotilux.github.io/kleine-reparaturen-grosse-wirkung/</guid>
       <description>Wie überall geht auch in einem Hackerspace / Makerspace / Mitmachwerkstatt irgendwann etwas kaputt. Und so sind auch wir im Sinne der Nachhaltigkeit bestrebt lieb gewonnenes zu erhalten und unsere technischen Fähigkeiten zu erweitern. Durch unsere breitbandig Themenbereiche helfen wir uns häufig gegenseitig und geben so Wissen weiter. So erneuert der Handarbeitsbereich das Innenleben eines Stofftieres und im Gegenzug schweißt der Metallbereich den abgebrochenen Hals einer Kleiderpuppe oder für den Gartenbereich eine Gartenschaufel.</description>
     </item>
     
     <item>
       <title>Workshop 3D-Druck und Reparatur</title>
-      <link>https://username.github.io/13490-2/</link>
+      <link>https://jotilux.github.io/13490-2/</link>
       <pubDate>Wed, 01 Aug 2018 16:42:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/13490-2/</guid>
+      
+      <guid>https://jotilux.github.io/13490-2/</guid>
       <description>Im Rahmen des kostenlosen Workshops soll der Ablauf einer Reparatur mit Hilfe des 3D-Drucks durchgespielt werden. Dabei sollen folgende Fragen beantwortet werden:
  Wie funktioniert 3D-Druck? Welche Ersatzteile eignen sich für einen Nachbau per 3D-Druck? Was ist für eine 3D-Reparatur nötig?  Anschließend wollen wir mit den TeilnehmerInnen überlegen, welche Maßnahmen konkret nötig sind, um die 3D-Reparatur in die Praxis von Makerspaces und Reparatur zu übernehmen.
 Eingeladen sind AkteurInnen aus Makerspaces als ExpertInnen für den 3D-Druck und AkteurInnen aus Reparaturbetrieben und Repair Cafés als ExpertInnen für die Reparatur.</description>
@@ -76,10 +74,10 @@ Eingeladen sind AkteurInnen aus Makerspaces als ExpertInnen für den 3D-Druck un
     
     <item>
       <title>Füllung vom Kuscheltier austauschen</title>
-      <link>https://username.github.io/13254-2/</link>
+      <link>https://jotilux.github.io/13254-2/</link>
       <pubDate>Tue, 06 Mar 2018 09:27:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/13254-2/</guid>
+      
+      <guid>https://jotilux.github.io/13254-2/</guid>
       <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;3072&amp;rdquo;]Das Schaf - wieder gesund und munter und vor allem SATT![/caption]
 Bei uns im Kombinat lebt ein kleines Schaf. Es chillt den ganzen Tag aufm Sofa, springt als Counselor ein, wenn jemand Sorgen hat und hin und wieder hilft es Bernd beim putzen.
 Jedenfalls war das Schaf vom vielen Kuscheln total platt gedrückt.
@@ -88,106 +86,106 @@ Am Montag zum Handarbeitstreff habe ich mich mal ums Schaf gekümmert und die F�
     
     <item>
       <title>Offenes Elektronik-Treffen am 13. April 2016</title>
-      <link>https://username.github.io/offenes-elektronik-treffen-am-13-april-2016/</link>
+      <link>https://jotilux.github.io/offenes-elektronik-treffen-am-13-april-2016/</link>
       <pubDate>Mon, 11 Apr 2016 09:08:40 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/offenes-elektronik-treffen-am-13-april-2016/</guid>
+      
+      <guid>https://jotilux.github.io/offenes-elektronik-treffen-am-13-april-2016/</guid>
       <description>Thema diesmal: Analoge und digitale Oszilloskope. Es gibt eine Kurzeinführung in Umgang und Benutzung von Oszilloskopen zum Messen und zur Fehlersuche. Eintritt frei, Gäste sind gern gesehen! Beginn der Veranstaltung am 13. April 2016 ist 20:00 Uhr im Eigenbaukombinat.
 Danach findet ein freier Austausch unter allen Elektronikbastlern, und solchen die es werden wollen, statt! Kommt vorbei und bringt eure Freunde mit. ;)Unser Elektronik-Treffen findet übrigens regelmäßig an jedem zweiten Mittwoch im Monat statt.</description>
     </item>
     
     <item>
       <title>Techniknotaufnahme am 11. Februar 2016</title>
-      <link>https://username.github.io/techniknotaufnahme-am-11-februar-2016/</link>
+      <link>https://jotilux.github.io/techniknotaufnahme-am-11-februar-2016/</link>
       <pubDate>Thu, 11 Feb 2016 20:51:19 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/techniknotaufnahme-am-11-februar-2016/</guid>
+      
+      <guid>https://jotilux.github.io/techniknotaufnahme-am-11-februar-2016/</guid>
       <description>Unsere Techniknotaufnahme war heute auch wieder gut besucht. Wir hatten diesmal Laptops mit diversen Soft- und Hardwareproblemen (bootet nicht; wird heiß und stürzt ab) und auch ein iPhone (Akku-Tausch) in Behandlung. [gallery ids=&amp;ldquo;10801,10803,10804,10805,10806,10802,10807&amp;rdquo; link=&amp;ldquo;file&amp;rdquo;]
 Ihr habt auch technische Probleme? Dann meldet Euch zur nächsten Technik-Notaufnahme an mit einer möglichst genauen Beschreibung des Problems.</description>
     </item>
     
     <item>
       <title>Reparatur: Kärcher NT45/1</title>
-      <link>https://username.github.io/reparatur-kaercher-nt451/</link>
+      <link>https://jotilux.github.io/reparatur-kaercher-nt451/</link>
       <pubDate>Thu, 15 Oct 2015 10:28:35 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-kaercher-nt451/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-kaercher-nt451/</guid>
       <description>Die Turbine unseres Werkstattsaugers hat nach knapp 3 Jahren Einsatz den Geist aufgegeben: Lagerschaden! Natürlich sehr ärgerlich bei einem Gerät der deutlich gehobenen Preisklasse. Zum Glück ist das Ersatzteil problemlos zu bekommen und mit 60 EUR noch relativ preiswert gewesen.Der Austausch der Turbine an sich war dann relativ einfach. Das Problem war eher das Gerät komplett zu öffnen. Es ist alles sehr wartungsunfreundlich und eng gebaut, sodass wir eine Weile gebraucht haben, um zu sehen wie und wo es zu zerlegen geht.</description>
     </item>
     
     <item>
       <title>Nachlese: 4. Reparaturklinik</title>
-      <link>https://username.github.io/nachlese-4-reparaturklinik/</link>
+      <link>https://jotilux.github.io/nachlese-4-reparaturklinik/</link>
       <pubDate>Mon, 20 Apr 2015 06:30:07 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/nachlese-4-reparaturklinik/</guid>
+      
+      <guid>https://jotilux.github.io/nachlese-4-reparaturklinik/</guid>
       <description>Auch diesmal gab es wieder einige interessante Patienten in unserer Reparaturklinik: Diverse Verstärker, ein stummer Lautsprecher, ein TFT-Display ohne Funktion, ein Schlitten vom letzten Winter und ein C64, der nach kaum 25 Jahren meint schon in Rente gehen zu wollen. Mehr Bilder nach dem Klick.Erster Patient: Ein paar klassische 3-Wege-Boxen Dual CL 710. Einer der Lautsprecher klingt etwas dumpf. Der erste Verdacht fällt auf ein lockeres Kabel oder gealterte/ausgefallene Bauteile auf der Frequenzweiche.</description>
     </item>
     
     <item>
       <title>Nachlese: Zweite Reparaturklinik</title>
-      <link>https://username.github.io/nachlese-zweite-reparaturklinik/</link>
+      <link>https://jotilux.github.io/nachlese-zweite-reparaturklinik/</link>
       <pubDate>Thu, 23 Oct 2014 12:18:15 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/nachlese-zweite-reparaturklinik/</guid>
+      
+      <guid>https://jotilux.github.io/nachlese-zweite-reparaturklinik/</guid>
       <description>Auch diesmal gab es wieder sehr viele interessante Patienten und engagierte Freiwillige bei unserer zweiten Reparaturklinik. Wie immer konnten wir etwa die Hälfte der Patienten geheilt entlassen, der Rest benötigt weitere Ersatzteile oder einen Totenschein.Hier in Bildern ein paar Ausschnitte:
 * ein Scanner mit defekter Spannungsversorgung an der Platine (fixed) * eine Lampe, wo nur ein altersschwacher kaputter Kondensator getauscht werden musste (fixed) * ein 25 Jahre alter Toaster, der seinen Toast nicht mehr drinbehalten wollte, jetzt aber wieder problemlos geht (fixed) * ein alter RFT Radioreceiver mit defekter Senderverstellung (fixed) * eine Fernbedienung, die nicht mehr wollte (fixed) * ein Denonreceiver mit fehlerhafter Spannungsversorgung (kaputt) * ein Concert 2000 Plattenspieler mit kratzenden Potis und defekter Arm-Automatik (fixed) * der berühmte orangene DDR-Handmixer, wo nur die Motorkohlen gangbar gemacht werden mussten (fixed) * ein altes Röhrenradio aus den 50ern oder 60ern (kaputt) [gallery link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;8382,8383,8373,8377,8380,8381,8378,8374,8379,8375,8371,8376,8372&amp;rdquo;]</description>
     </item>
     
     <item>
       <title>Reparatur: Kurbel der Ständerbohrmaschine</title>
-      <link>https://username.github.io/reparatur-kurbel-der-staenderbohrmaschine/</link>
+      <link>https://jotilux.github.io/reparatur-kurbel-der-staenderbohrmaschine/</link>
       <pubDate>Thu, 19 Jun 2014 13:26:24 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-kurbel-der-staenderbohrmaschine/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-kurbel-der-staenderbohrmaschine/</guid>
       <description>Nachdem die Kurbel für die Höhenverstellung unserer CMI Ständerbohrmaschine immer mal wieder den Geist aufgibt und mittlerweile bereits zum großen Teil aus Sekundenkleber besteht, habe ich kurzerhand auf unserer CNC-Fräse ein Ersatzteil aus Holz gefräst.Hier die kaputte Kurbel (nochmal zusammengelegt) und darunter das zweiteilige Ersatzteil. Ich habe mich diesmal für einen Sterngriff entschieden. Die Welle ist auf einer Seite abgeflacht, das Ersatzteil daher entsprechend gefertigt:
 Hier für alle mit demselben Problem der Entwurf zum Herunterladen als DXF-Datei.</description>
     </item>
     
     <item>
       <title>Reparaturklinik</title>
-      <link>https://username.github.io/reparaturklinik/</link>
+      <link>https://jotilux.github.io/reparaturklinik/</link>
       <pubDate>Thu, 12 Jun 2014 13:06:11 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparaturklinik/</guid>
+      
+      <guid>https://jotilux.github.io/reparaturklinik/</guid>
       <description>**TERMIN**  Auf Anfrage   **TEILNEHMER**  ca. 15 (Anmeldungen werden bevorzugt behandelt)   **KOSTEN**  kostenlos   **KURSLEITER**  Das Team der Reparaturklinik   **ORT**  Eigenbaukombinat   **INHALT**  Du hast etwas Kaputtes, weißt aber nicht, wie Du es reparieren kannst oder hast nicht das passende Werkzeug dazu? Dann komm&#39; zur Reparaturklinik und wir helfen Dir dabei. Insbesondere kümmern wir uns um * Unterhaltungselektronik (Lautsprecher, Verstärker, .</description>
     </item>
     
     <item>
       <title>Erste Reparaturklinik im Eigenbaukombinat</title>
-      <link>https://username.github.io/erste-reparaturklinik-im-eigenbaukombinat/</link>
+      <link>https://jotilux.github.io/erste-reparaturklinik-im-eigenbaukombinat/</link>
       <pubDate>Thu, 12 Jun 2014 12:59:10 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/erste-reparaturklinik-im-eigenbaukombinat/</guid>
+      
+      <guid>https://jotilux.github.io/erste-reparaturklinik-im-eigenbaukombinat/</guid>
       <description>Du hast einen kaputten Mixer, knacksenden Verstärker, einen wackeligen Stuhl oder etwas Anderes, weißt aber nicht, wie Du es selbst reparieren kannst oder hast nicht das passende Werkzeug? Dann melde Dich für den 05. Juli zu unserer Reparaturklinik an!Neben dem Selbermachen kümmern wir uns an diesem Tag von 13-18 Uhr um Geräte mit eingebauter Sollbruchstelle und helfen Mitgliedern und Noch-nicht-Mitgliedern bei der eigenständigen Reparatur, vor allem in folgenden Bereichen:
 * Unterhaltungselektronik (Lautsprecher, Verstärker etc.</description>
     </item>
     
     <item>
       <title>Reparatur: Eine &#34;Weltmeister TO 200/5&#34; Transistororgel</title>
-      <link>https://username.github.io/reparatur-einer-weltmeister-to-2005-transistororgel/</link>
+      <link>https://jotilux.github.io/reparatur-einer-weltmeister-to-2005-transistororgel/</link>
       <pubDate>Sat, 28 Dec 2013 14:45:19 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-einer-weltmeister-to-2005-transistororgel/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-einer-weltmeister-to-2005-transistororgel/</guid>
       <description>Eine von den &amp;ldquo;VEB Klingenthaler Harmonikawerke&amp;rdquo; hergestellte Transistororgel &amp;ldquo;Weltmeister TO 200&amp;frasl;5&amp;rdquo; aus den frühen 70ern erreichte mich mit der Fehlerbeschreibung, dass nach ca. 30 Minuten alle &amp;ldquo;d&amp;rdquo;-Töne nicht mehr funktionieren. Nach kurzer Recherche konnte ich Lutz Würkner ausfindig machen, der uns mit Scans der Bedienungsanleitung sowie einer Kopie des Original Servicehefts zu der Orgel versorgen konnte. Der beschriebene Fehler tauchte dort unter &amp;ldquo;Häufigste Fehler und Lösungen&amp;rdquo; gleich als erstes auf. Die Lösung lautete, man solle einfach den entsprechenden Tongenerator reparieren.</description>
     </item>
     
     <item>
       <title>Reparatur: Nikon CoolPix S9200</title>
-      <link>https://username.github.io/reparatur-nikon-coolpix-s9200/</link>
+      <link>https://jotilux.github.io/reparatur-nikon-coolpix-s9200/</link>
       <pubDate>Mon, 26 Aug 2013 12:39:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-nikon-coolpix-s9200/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-nikon-coolpix-s9200/</guid>
       <description>Und wieder mal ein reparaturbedürftiges Gerät im Eigenbaukombinat. Ein Hund ist auf Steffis Digitalkamera getreten - die Folge: Display mechanisch gebrochen. Es zeigt Streifen und den Bruch recht deutlich.
 Im Fotofachgeschäft will man 140 EUR für die Reparatur haben, zum Glück kostet uns das Ersatzdisplay nur 30 EUR (LINK), leider gibt es für dieses Kameramodell keinerlei Anleitung zum Displaywechsel, und das im Netz kursierende Video vom Vorgänger ist leider nur bedingt nutzbar, da sich der AufAuseinanderbau der Kameras deutlich unterscheidet.</description>
     </item>
     
     <item>
       <title>Reparatur: Aktenvernichter IDEAL cross/cut 2201 B</title>
-      <link>https://username.github.io/reparatur-aktenvernichter-ideal-crosscut-2201-b/</link>
+      <link>https://jotilux.github.io/reparatur-aktenvernichter-ideal-crosscut-2201-b/</link>
       <pubDate>Sat, 10 Aug 2013 11:33:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-aktenvernichter-ideal-crosscut-2201-b/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-aktenvernichter-ideal-crosscut-2201-b/</guid>
       <description>Heute wurde der nächste &amp;ldquo;Patient&amp;rdquo; eingeliefert, ein Aktenvernichter, der nicht mehr vernichten mag. Erstdiagnose: Motor läuft, aber die Walzen drehen sich nicht. Vermutlich hat sich etwas verklemmt.Also munter ans Werk. Äußerlich lassen sich nur vereinzelte Papierreste ausmachen, also muss die Abdeckung herunter. Die ist mit vier Schrauben befestigt und entsprechend schnell gelöst.Von hier aus sieht alles unverdächtig aus.
 
 Aber die andere Seite verrät einen größeren, festsitzenden Papierstau, der sich mit etwas Kraft aber leicht entfernen lässt.</description>
@@ -195,10 +193,10 @@ Aber die andere Seite verrät einen größeren, festsitzenden Papierstau, der si
     
     <item>
       <title>Reparatur: Sony Doppel-Kassettenrekorder</title>
-      <link>https://username.github.io/reparatur-sony-doppel-kassettenrekorder/</link>
+      <link>https://jotilux.github.io/reparatur-sony-doppel-kassettenrekorder/</link>
       <pubDate>Wed, 07 Aug 2013 10:02:36 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-sony-doppel-kassettenrekorder/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-sony-doppel-kassettenrekorder/</guid>
       <description>Ein schönes Gerät, sicher um die 20 Jahre alt, und voller Erinnerungen. Leider will er nicht mehr, komplett ohne Funktion. Aber wir werden sehen&amp;hellip;Also erstmal aufgeschraubt und reingeschaut:
 _ _
 Aha! Die Platine, auf welcher die Buchse für das Stromkabel sitzt, ist leider gebrochen. Zum Glück nah an der Buchse, sodass keinerlei andere Elektronik in Mitleidenschaft gezogen wurde. 
@@ -209,20 +207,20 @@ Und dann die unterbrochenen Kontakte direkt mit Kabelbrücken wieder geschlossen
     
     <item>
       <title>Reparatur: Canon MP510, Fehlercode 5010</title>
-      <link>https://username.github.io/reparatur-canon-mp510-fehlercode-5010/</link>
+      <link>https://jotilux.github.io/reparatur-canon-mp510-fehlercode-5010/</link>
       <pubDate>Mon, 05 Aug 2013 11:32:44 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/reparatur-canon-mp510-fehlercode-5010/</guid>
+      
+      <guid>https://jotilux.github.io/reparatur-canon-mp510-fehlercode-5010/</guid>
       <description>Der Drucker lässt sich nicht mehr benutzen, obwohl &amp;ldquo;nur&amp;rdquo; die Scaneinheit den Dienst versagt. Meldung beim Einschalten: Fehlercode 5010 und dazu blinkt er 22 mal.
 Das Service Manual zum Canon MP510 lässt sich im Netz finden. Das Nachschlagen ergibt: &amp;ldquo;Scanner kann nicht auf die Startposition gesetzt werden.&amp;rdquo;Jetzt also Zerlegen nach Serviceanleitung, um nach der Elektronik/Mechanik des Scanners zu schauen. Vielleicht ist ja auch nur ein Stecker rausgerutscht. Dazu werden die linke und rechte Gehäuseabdeckung entfernt.</description>
     </item>
     
     <item>
       <title>Wartung: Schlagbohrmaschine Bosch PSB 680-2RE</title>
-      <link>https://username.github.io/wartung-schlagbohrmaschine-bosch-psb-680-2re/</link>
+      <link>https://jotilux.github.io/wartung-schlagbohrmaschine-bosch-psb-680-2re/</link>
       <pubDate>Thu, 18 Jul 2013 18:28:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/wartung-schlagbohrmaschine-bosch-psb-680-2re/</guid>
+      
+      <guid>https://jotilux.github.io/wartung-schlagbohrmaschine-bosch-psb-680-2re/</guid>
       <description>Die Maschine ist Baujahr 1998, hat also ihre Schuldigkeit getan. In letzter Zeit fällt sie durch starkes Bürstenfeuer auf. Also aufgeschraubt und nachgeschaut.Eine Explosionszeichnung gibt&amp;rsquo;s hier.
 So, neun Schrauben sind zu lösen&amp;hellip; und das oben aufs Gehäuse geklebte Bohrgeschwindigkeitsschema muss mit einem Cuttermesser vorsichtig an der Gehäusenaht durchtrennt werden.
 Die Innenansicht. Noch die gute Qualität, Metallzahnräder. :-)

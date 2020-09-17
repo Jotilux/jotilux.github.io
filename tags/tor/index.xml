@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tor on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/tor/</link>
-    <description>Recent content in Tor on Beautiful Hugo</description>
+    <title>Tor on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/tor/</link>
+    <description>Recent content in Tor on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Sun, 19 Nov 2017 11:50:50 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Verstecken im Darknet -- Tor Onion Services</title>
-      <link>https://username.github.io/verstecken-im-darknet-tor-onion-services/</link>
+      <link>https://jotilux.github.io/verstecken-im-darknet-tor-onion-services/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/verstecken-im-darknet-tor-onion-services/</guid>
+      
+      <guid>https://jotilux.github.io/verstecken-im-darknet-tor-onion-services/</guid>
       <description>Am 29. November ab 19 Uhr haben wir Jens Kubieziel bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über Tor und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
 Der Vortrag möchte eine Einführung in die Tor Onion Services, dem »Darknet«/Deep Web, geben und sich mit Funktion, Möglichkeiten und theoretischen wie auch praktischen Angriffszenarien auseinander setzen.</description>
     </item>

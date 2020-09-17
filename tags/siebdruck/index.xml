@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siebdruck on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/siebdruck/</link>
-    <description>Recent content in Siebdruck on Beautiful Hugo</description>
+    <title>Siebdruck on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/siebdruck/</link>
+    <description>Recent content in Siebdruck on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Mon, 21 Oct 2019 11:33:36 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/siebdruck/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/siebdruck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Siebdruck-Treffen</title>
-      <link>https://username.github.io/siebdruck-treffen/</link>
+      <link>https://jotilux.github.io/siebdruck-treffen/</link>
       <pubDate>Mon, 21 Oct 2019 11:33:36 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/siebdruck-treffen/</guid>
+      
+      <guid>https://jotilux.github.io/siebdruck-treffen/</guid>
       <description>**TERMIN**  immer am 4. Mittwoch im Monat ab 19:30 Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt + offen für Gäste   **KOSTEN**  kostenlos   **KURSLEITER**  Nilo   **ORT**  Eigenbaukombinat   **INHALT**  Wir treffen uns zum Austausch über das schöne Thema Siebdruck, besprechen anstehende organisatorische Themen, erledigen Dinge oder drucken auch mal was. Themenswümsche bitte im Pad eintragen: [https://pads.</description>
     </item>
     

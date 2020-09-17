@@ -1,230 +1,228 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Beautiful Hugo</title>
-    <link>https://username.github.io/categories/</link>
-    <description>Recent content in Categories on Beautiful Hugo</description>
+    <title>Categories on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/categories/</link>
+    <description>Recent content in Categories on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Thu, 28 May 2020 09:25:00 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Veranstaltungen</title>
-      <link>https://username.github.io/categories/veranstaltungen/</link>
+      <link>https://jotilux.github.io/categories/veranstaltungen/</link>
       <pubDate>Thu, 28 May 2020 09:25:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/veranstaltungen/</guid>
+      
+      <guid>https://jotilux.github.io/categories/veranstaltungen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verein</title>
-      <link>https://username.github.io/categories/verein/</link>
+      <link>https://jotilux.github.io/categories/verein/</link>
       <pubDate>Thu, 28 May 2020 09:25:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/verein/</guid>
+      
+      <guid>https://jotilux.github.io/categories/verein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fertige Projekte</title>
-      <link>https://username.github.io/categories/fertige-projekte/</link>
+      <link>https://jotilux.github.io/categories/fertige-projekte/</link>
       <pubDate>Mon, 11 May 2020 11:00:59 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/fertige-projekte/</guid>
+      
+      <guid>https://jotilux.github.io/categories/fertige-projekte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laufende Projekte</title>
-      <link>https://username.github.io/categories/laufende-projekte/</link>
+      <link>https://jotilux.github.io/categories/laufende-projekte/</link>
       <pubDate>Mon, 04 May 2020 16:10:12 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/laufende-projekte/</guid>
+      
+      <guid>https://jotilux.github.io/categories/laufende-projekte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JUNGHACKER</title>
-      <link>https://username.github.io/categories/junghacker/</link>
+      <link>https://jotilux.github.io/categories/junghacker/</link>
       <pubDate>Wed, 11 Mar 2020 08:45:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/junghacker/</guid>
+      
+      <guid>https://jotilux.github.io/categories/junghacker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jugend hackt</title>
-      <link>https://username.github.io/categories/jugend-hackt/</link>
+      <link>https://jotilux.github.io/categories/jugend-hackt/</link>
       <pubDate>Wed, 11 Mar 2020 08:45:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/jugend-hackt/</guid>
+      
+      <guid>https://jotilux.github.io/categories/jugend-hackt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Handarbeiten</title>
-      <link>https://username.github.io/categories/handarbeiten/</link>
+      <link>https://jotilux.github.io/categories/handarbeiten/</link>
       <pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/handarbeiten/</guid>
+      
+      <guid>https://jotilux.github.io/categories/handarbeiten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reparatur</title>
-      <link>https://username.github.io/categories/reparatur/</link>
+      <link>https://jotilux.github.io/categories/reparatur/</link>
       <pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/reparatur/</guid>
+      
+      <guid>https://jotilux.github.io/categories/reparatur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wissen</title>
-      <link>https://username.github.io/categories/wissen/</link>
+      <link>https://jotilux.github.io/categories/wissen/</link>
       <pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/wissen/</guid>
+      
+      <guid>https://jotilux.github.io/categories/wissen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basteln mit Kindern</title>
-      <link>https://username.github.io/categories/basteln-mit-kindern/</link>
+      <link>https://jotilux.github.io/categories/basteln-mit-kindern/</link>
       <pubDate>Sun, 17 Nov 2019 19:45:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/basteln-mit-kindern/</guid>
+      
+      <guid>https://jotilux.github.io/categories/basteln-mit-kindern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Siebdruck</title>
-      <link>https://username.github.io/categories/siebdruck/</link>
+      <link>https://jotilux.github.io/categories/siebdruck/</link>
       <pubDate>Mon, 28 Oct 2019 13:35:12 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/siebdruck/</guid>
+      
+      <guid>https://jotilux.github.io/categories/siebdruck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D-Druck</title>
-      <link>https://username.github.io/categories/3d-druck/</link>
+      <link>https://jotilux.github.io/categories/3d-druck/</link>
       <pubDate>Tue, 22 Oct 2019 11:59:47 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/3d-druck/</guid>
+      
+      <guid>https://jotilux.github.io/categories/3d-druck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>*@ebk</title>
-      <link>https://username.github.io/categories/ebk/</link>
+      <link>https://jotilux.github.io/categories/ebk/</link>
       <pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/ebk/</guid>
+      
+      <guid>https://jotilux.github.io/categories/ebk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geile Teile</title>
-      <link>https://username.github.io/categories/geile-teile/</link>
+      <link>https://jotilux.github.io/categories/geile-teile/</link>
       <pubDate>Sun, 13 Oct 2019 17:44:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/geile-teile/</guid>
+      
+      <guid>https://jotilux.github.io/categories/geile-teile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upcycling</title>
-      <link>https://username.github.io/categories/upcycling/</link>
+      <link>https://jotilux.github.io/categories/upcycling/</link>
       <pubDate>Mon, 15 Apr 2019 09:30:56 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/upcycling/</guid>
+      
+      <guid>https://jotilux.github.io/categories/upcycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metall</title>
-      <link>https://username.github.io/categories/metall/</link>
+      <link>https://jotilux.github.io/categories/metall/</link>
       <pubDate>Sun, 31 Mar 2019 05:15:56 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/metall/</guid>
+      
+      <guid>https://jotilux.github.io/categories/metall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio</title>
-      <link>https://username.github.io/categories/audio/</link>
+      <link>https://jotilux.github.io/categories/audio/</link>
       <pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/audio/</guid>
+      
+      <guid>https://jotilux.github.io/categories/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radio</title>
-      <link>https://username.github.io/categories/radio/</link>
+      <link>https://jotilux.github.io/categories/radio/</link>
       <pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/radio/</guid>
+      
+      <guid>https://jotilux.github.io/categories/radio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schweißen</title>
-      <link>https://username.github.io/categories/schwei%C3%9Fen/</link>
+      <link>https://jotilux.github.io/categories/schwei%C3%9Fen/</link>
       <pubDate>Tue, 05 Feb 2019 19:42:51 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/schwei%C3%9Fen/</guid>
+      
+      <guid>https://jotilux.github.io/categories/schwei%C3%9Fen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blick über den Tellerrand</title>
-      <link>https://username.github.io/categories/blick-%C3%BCber-den-tellerrand/</link>
+      <link>https://jotilux.github.io/categories/blick-%C3%BCber-den-tellerrand/</link>
       <pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/blick-%C3%BCber-den-tellerrand/</guid>
+      
+      <guid>https://jotilux.github.io/categories/blick-%C3%BCber-den-tellerrand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideen für Projekte</title>
-      <link>https://username.github.io/categories/ideen-f%C3%BCr-projekte/</link>
+      <link>https://jotilux.github.io/categories/ideen-f%C3%BCr-projekte/</link>
       <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/ideen-f%C3%BCr-projekte/</guid>
+      
+      <guid>https://jotilux.github.io/categories/ideen-f%C3%BCr-projekte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wolle</title>
-      <link>https://username.github.io/categories/wolle/</link>
+      <link>https://jotilux.github.io/categories/wolle/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/wolle/</guid>
+      
+      <guid>https://jotilux.github.io/categories/wolle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unterstützer</title>
-      <link>https://username.github.io/categories/unterst%C3%BCtzer/</link>
+      <link>https://jotilux.github.io/categories/unterst%C3%BCtzer/</link>
       <pubDate>Mon, 11 Apr 2016 09:08:40 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/unterst%C3%BCtzer/</guid>
+      
+      <guid>https://jotilux.github.io/categories/unterst%C3%BCtzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maschinen</title>
-      <link>https://username.github.io/categories/maschinen/</link>
+      <link>https://jotilux.github.io/categories/maschinen/</link>
       <pubDate>Thu, 15 Oct 2015 10:28:35 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/categories/maschinen/</guid>
+      
+      <guid>https://jotilux.github.io/categories/maschinen/</guid>
       <description></description>
     </item>
     

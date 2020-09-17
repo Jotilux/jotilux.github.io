@@ -1,53 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vortrag on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/vortrag/</link>
-    <description>Recent content in Vortrag on Beautiful Hugo</description>
+    <title>Vortrag on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/vortrag/</link>
+    <description>Recent content in Vortrag on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Thu, 02 Jan 2020 14:44:42 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/vortrag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/vortrag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DevOps Disasters, Vortrag vom 36c3</title>
-      <link>https://username.github.io/devops-disasters-vortrag-vom-36c3/</link>
+      <link>https://jotilux.github.io/devops-disasters-vortrag-vom-36c3/</link>
       <pubDate>Thu, 02 Jan 2020 14:44:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/devops-disasters-vortrag-vom-36c3/</guid>
+      
+      <guid>https://jotilux.github.io/devops-disasters-vortrag-vom-36c3/</guid>
       <description>Die erste und einzige offizielle Aufzeichnung der ChaosZone vom 36. Chaos Communication Congress. Bei youtube oder direkt hier ansehen.
 [jwp-video n=&amp;ldquo;1&amp;rdquo;]</description>
     </item>
     
     <item>
       <title>Vortrag: Public money, public code</title>
-      <link>https://username.github.io/public-money-public-code/</link>
+      <link>https://jotilux.github.io/public-money-public-code/</link>
       <pubDate>Tue, 28 Nov 2017 17:28:35 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/public-money-public-code/</guid>
+      
+      <guid>https://jotilux.github.io/public-money-public-code/</guid>
       <description>Am 7.12 ab 19:00 Uhr besucht uns Erik Albers von der Free Software Foundation Europe und stellt die Initiative &amp;ldquo;Public money, public code&amp;rdquo; im Rahmen eines Vortrages vor.
 Staat und Verwaltung haben im Rahmen der Digitalisierung ihrer Aufgaben einen stetig wachsenden Bedarf an Daten und Anwendungsprogrammen zur Verarbeitung dieser Daten. Auch stellt die Bereitstellung von Diensten für die Bürger und Unternehmen die öffentlichen Stellen vor ganz neuen Heraus- und Anforderung. Der Vortrag und die sich vielleicht danach entspinnende Diskussion wird sich darum drehen, wie diese (softwareseitigen) Probleme nachhaltig gelöst werden könnten.</description>
     </item>
     
     <item>
       <title>Verstecken im Darknet -- Tor Onion Services</title>
-      <link>https://username.github.io/verstecken-im-darknet-tor-onion-services/</link>
+      <link>https://jotilux.github.io/verstecken-im-darknet-tor-onion-services/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/verstecken-im-darknet-tor-onion-services/</guid>
+      
+      <guid>https://jotilux.github.io/verstecken-im-darknet-tor-onion-services/</guid>
       <description>Am 29. November ab 19 Uhr haben wir Jens Kubieziel bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über Tor und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
 Der Vortrag möchte eine Einführung in die Tor Onion Services, dem »Darknet«/Deep Web, geben und sich mit Funktion, Möglichkeiten und theoretischen wie auch praktischen Angriffszenarien auseinander setzen.</description>
     </item>
     
     <item>
       <title>science@eigenbaukombinat: Künstliche Intelligenz</title>
-      <link>https://username.github.io/scienceeigenbaukombinat-kuenstliche-intelligenz/</link>
+      <link>https://jotilux.github.io/scienceeigenbaukombinat-kuenstliche-intelligenz/</link>
       <pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/scienceeigenbaukombinat-kuenstliche-intelligenz/</guid>
+      
+      <guid>https://jotilux.github.io/scienceeigenbaukombinat-kuenstliche-intelligenz/</guid>
       <description>In den Medien findet aktuell eine spannende Debatte um Künstliche Intelligenz statt. Verschiedene Akteure warnen vor Gefahren, andere dagegen würdigen die Chancen und Möglichkeiten, die sich durch die neuesten Entwicklungen ergeben. Sicher ist, maschinelle Intelligenz dringt in immer mehr Lebensbereiche ein und wird künftig stärker unser Leben bestimmen.
 Aber was ist Künstliche Intelligenz eigentlich?
 Am 27. September, 19:30 Uhr wird uns während der ersten Veranstaltung der Reihe science@eigenbaukombinat genau diese Frage beschäftigen .</description>

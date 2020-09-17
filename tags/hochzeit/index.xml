@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hochzeit on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/hochzeit/</link>
-    <description>Recent content in Hochzeit on Beautiful Hugo</description>
+    <title>Hochzeit on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/hochzeit/</link>
+    <description>Recent content in Hochzeit on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Sun, 06 Oct 2019 12:00:20 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/hochzeit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/hochzeit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Holzverbindung</title>
-      <link>https://username.github.io/holzverbindung/</link>
+      <link>https://jotilux.github.io/holzverbindung/</link>
       <pubDate>Sun, 06 Oct 2019 12:00:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/holzverbindung/</guid>
+      
+      <guid>https://jotilux.github.io/holzverbindung/</guid>
       <description>Traditionell steht vor einer Hochzeit die Verlobung. Es ist üblich, vor den eigentlichen Hochzeitsringen Ringe zur Verlobung zu tragen. Mit selbstgemachten Verlobungsringen bekommt die vorangestellte Absicht nochmal eine deutlichere Tiefe, egal ob aus Holz oder aus Metall.
 Aus diesem Grund haben wir, Valentin und ich, vor einigen Wochen gemeinsam an Verlobungsringen für ihn und seine zukünftige Frau getüftelt. Valentin hat im Vorfeld seinen Ringrohling aus Birnenholz angefertigt, das Gegenstück aus Maulbeerholz ist größtenteils in unserer Holzwerkstatt entstanden.</description>
     </item>

@@ -1,1895 +1,1893 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Beautiful Hugo</title>
-    <link>https://username.github.io/tags/</link>
-    <description>Recent content in Tags on Beautiful Hugo</description>
+    <title>Tags on Eigenbaukombinat</title>
+    <link>https://jotilux.github.io/tags/</link>
+    <description>Recent content in Tags on Eigenbaukombinat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Mon, 04 May 2020 16:10:12 +0000</lastBuildDate>
     
-	<atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jotilux.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Garten</title>
-      <link>https://username.github.io/tags/garten/</link>
+      <link>https://jotilux.github.io/tags/garten/</link>
       <pubDate>Mon, 04 May 2020 16:10:12 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/garten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/garten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Japan</title>
-      <link>https://username.github.io/tags/japan/</link>
+      <link>https://jotilux.github.io/tags/japan/</link>
       <pubDate>Tue, 18 Feb 2020 21:11:11 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/japan/</guid>
+      
+      <guid>https://jotilux.github.io/tags/japan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kennenlernabend</title>
-      <link>https://username.github.io/tags/kennenlernabend/</link>
+      <link>https://jotilux.github.io/tags/kennenlernabend/</link>
       <pubDate>Tue, 18 Feb 2020 21:11:11 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kennenlernabend/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kennenlernabend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kochabend</title>
-      <link>https://username.github.io/tags/kochabend/</link>
+      <link>https://jotilux.github.io/tags/kochabend/</link>
       <pubDate>Tue, 18 Feb 2020 21:11:11 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kochabend/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kochabend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vortrag</title>
-      <link>https://username.github.io/tags/vortrag/</link>
+      <link>https://jotilux.github.io/tags/vortrag/</link>
       <pubDate>Thu, 02 Jan 2020 14:44:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/vortrag/</guid>
+      
+      <guid>https://jotilux.github.io/tags/vortrag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ccc</title>
-      <link>https://username.github.io/tags/ccc/</link>
+      <link>https://jotilux.github.io/tags/ccc/</link>
       <pubDate>Thu, 02 Jan 2020 14:44:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/ccc/</guid>
+      
+      <guid>https://jotilux.github.io/tags/ccc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chaoszone</title>
-      <link>https://username.github.io/tags/chaoszone/</link>
+      <link>https://jotilux.github.io/tags/chaoszone/</link>
       <pubDate>Thu, 02 Jan 2020 14:44:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/chaoszone/</guid>
+      
+      <guid>https://jotilux.github.io/tags/chaoszone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keramik</title>
-      <link>https://username.github.io/tags/keramik/</link>
+      <link>https://jotilux.github.io/tags/keramik/</link>
       <pubDate>Mon, 30 Dec 2019 20:27:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/keramik/</guid>
+      
+      <guid>https://jotilux.github.io/tags/keramik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kochabend Kennlernabend</title>
-      <link>https://username.github.io/tags/kochabend-kennlernabend/</link>
+      <link>https://jotilux.github.io/tags/kochabend-kennlernabend/</link>
       <pubDate>Tue, 17 Dec 2019 18:32:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kochabend-kennlernabend/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kochabend-kennlernabend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kochen</title>
-      <link>https://username.github.io/tags/kochen/</link>
+      <link>https://jotilux.github.io/tags/kochen/</link>
       <pubDate>Tue, 17 Dec 2019 18:32:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kochen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kochen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weihnachten</title>
-      <link>https://username.github.io/tags/weihnachten/</link>
+      <link>https://jotilux.github.io/tags/weihnachten/</link>
       <pubDate>Tue, 17 Dec 2019 18:32:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/weihnachten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/weihnachten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lasercutter</title>
-      <link>https://username.github.io/tags/lasercutter/</link>
+      <link>https://jotilux.github.io/tags/lasercutter/</link>
       <pubDate>Thu, 31 Oct 2019 01:17:10 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/lasercutter/</guid>
+      
+      <guid>https://jotilux.github.io/tags/lasercutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Siebdruck</title>
-      <link>https://username.github.io/tags/siebdruck/</link>
+      <link>https://jotilux.github.io/tags/siebdruck/</link>
       <pubDate>Mon, 21 Oct 2019 11:33:36 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/siebdruck/</guid>
+      
+      <guid>https://jotilux.github.io/tags/siebdruck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D-Drucker</title>
-      <link>https://username.github.io/tags/3d-drucker/</link>
+      <link>https://jotilux.github.io/tags/3d-drucker/</link>
       <pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/3d-drucker/</guid>
+      
+      <guid>https://jotilux.github.io/tags/3d-drucker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drechseln</title>
-      <link>https://username.github.io/tags/drechseln/</link>
+      <link>https://jotilux.github.io/tags/drechseln/</link>
       <pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/drechseln/</guid>
+      
+      <guid>https://jotilux.github.io/tags/drechseln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinesisch</title>
-      <link>https://username.github.io/tags/chinesisch/</link>
+      <link>https://jotilux.github.io/tags/chinesisch/</link>
       <pubDate>Tue, 15 Oct 2019 21:05:59 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/chinesisch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/chinesisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reis</title>
-      <link>https://username.github.io/tags/reis/</link>
+      <link>https://jotilux.github.io/tags/reis/</link>
       <pubDate>Tue, 15 Oct 2019 21:05:59 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/reis/</guid>
+      
+      <guid>https://jotilux.github.io/tags/reis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arduino</title>
-      <link>https://username.github.io/tags/arduino/</link>
+      <link>https://jotilux.github.io/tags/arduino/</link>
       <pubDate>Tue, 08 Oct 2019 22:06:59 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/arduino/</guid>
+      
+      <guid>https://jotilux.github.io/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hochzeit</title>
-      <link>https://username.github.io/tags/hochzeit/</link>
+      <link>https://jotilux.github.io/tags/hochzeit/</link>
       <pubDate>Sun, 06 Oct 2019 12:00:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/hochzeit/</guid>
+      
+      <guid>https://jotilux.github.io/tags/hochzeit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holz</title>
-      <link>https://username.github.io/tags/holz/</link>
+      <link>https://jotilux.github.io/tags/holz/</link>
       <pubDate>Sun, 06 Oct 2019 12:00:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/holz/</guid>
+      
+      <guid>https://jotilux.github.io/tags/holz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ring</title>
-      <link>https://username.github.io/tags/ring/</link>
+      <link>https://jotilux.github.io/tags/ring/</link>
       <pubDate>Sun, 06 Oct 2019 12:00:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/ring/</guid>
+      
+      <guid>https://jotilux.github.io/tags/ring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verlobung</title>
-      <link>https://username.github.io/tags/verlobung/</link>
+      <link>https://jotilux.github.io/tags/verlobung/</link>
       <pubDate>Sun, 06 Oct 2019 12:00:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/verlobung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/verlobung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Melone</title>
-      <link>https://username.github.io/tags/melone/</link>
+      <link>https://jotilux.github.io/tags/melone/</link>
       <pubDate>Mon, 12 Aug 2019 18:58:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/melone/</guid>
+      
+      <guid>https://jotilux.github.io/tags/melone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pie</title>
-      <link>https://username.github.io/tags/pie/</link>
+      <link>https://jotilux.github.io/tags/pie/</link>
       <pubDate>Mon, 12 Aug 2019 18:58:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/pie/</guid>
+      
+      <guid>https://jotilux.github.io/tags/pie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>veranstaltung</title>
-      <link>https://username.github.io/tags/veranstaltung/</link>
+      <link>https://jotilux.github.io/tags/veranstaltung/</link>
       <pubDate>Sun, 11 Aug 2019 13:00:15 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/veranstaltung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/veranstaltung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basteln / Handarbeit</title>
-      <link>https://username.github.io/tags/basteln-/-handarbeit/</link>
+      <link>https://jotilux.github.io/tags/basteln-/-handarbeit/</link>
       <pubDate>Tue, 30 Jul 2019 17:46:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/basteln-/-handarbeit/</guid>
+      
+      <guid>https://jotilux.github.io/tags/basteln-/-handarbeit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pilze</title>
-      <link>https://username.github.io/tags/pilze/</link>
+      <link>https://jotilux.github.io/tags/pilze/</link>
       <pubDate>Sun, 14 Jul 2019 13:01:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/pilze/</guid>
+      
+      <guid>https://jotilux.github.io/tags/pilze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risotto</title>
-      <link>https://username.github.io/tags/risotto/</link>
+      <link>https://jotilux.github.io/tags/risotto/</link>
       <pubDate>Sun, 14 Jul 2019 13:01:01 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/risotto/</guid>
+      
+      <guid>https://jotilux.github.io/tags/risotto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kartoffeln</title>
-      <link>https://username.github.io/tags/kartoffeln/</link>
+      <link>https://jotilux.github.io/tags/kartoffeln/</link>
       <pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kartoffeln/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kartoffeln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Krautsuppe</title>
-      <link>https://username.github.io/tags/krautsuppe/</link>
+      <link>https://jotilux.github.io/tags/krautsuppe/</link>
       <pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/krautsuppe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/krautsuppe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kräuter</title>
-      <link>https://username.github.io/tags/kr%C3%A4uter/</link>
+      <link>https://jotilux.github.io/tags/kr%C3%A4uter/</link>
       <pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kr%C3%A4uter/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kr%C3%A4uter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Senfsoße</title>
-      <link>https://username.github.io/tags/senfso%C3%9Fe/</link>
+      <link>https://jotilux.github.io/tags/senfso%C3%9Fe/</link>
       <pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/senfso%C3%9Fe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/senfso%C3%9Fe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leder</title>
-      <link>https://username.github.io/tags/leder/</link>
+      <link>https://jotilux.github.io/tags/leder/</link>
       <pubDate>Mon, 15 Apr 2019 09:30:56 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/leder/</guid>
+      
+      <guid>https://jotilux.github.io/tags/leder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prägen</title>
-      <link>https://username.github.io/tags/pr%C3%A4gen/</link>
+      <link>https://jotilux.github.io/tags/pr%C3%A4gen/</link>
       <pubDate>Mon, 15 Apr 2019 09:30:56 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/pr%C3%A4gen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/pr%C3%A4gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kerzenhalter</title>
-      <link>https://username.github.io/tags/kerzenhalter/</link>
+      <link>https://jotilux.github.io/tags/kerzenhalter/</link>
       <pubDate>Sat, 16 Mar 2019 05:00:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kerzenhalter/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kerzenhalter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marienkäfer</title>
-      <link>https://username.github.io/tags/marienk%C3%A4fer/</link>
+      <link>https://jotilux.github.io/tags/marienk%C3%A4fer/</link>
       <pubDate>Sat, 16 Mar 2019 05:00:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/marienk%C3%A4fer/</guid>
+      
+      <guid>https://jotilux.github.io/tags/marienk%C3%A4fer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teelicht</title>
-      <link>https://username.github.io/tags/teelicht/</link>
+      <link>https://jotilux.github.io/tags/teelicht/</link>
       <pubDate>Sat, 16 Mar 2019 05:00:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/teelicht/</guid>
+      
+      <guid>https://jotilux.github.io/tags/teelicht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Essen</title>
-      <link>https://username.github.io/tags/essen/</link>
+      <link>https://jotilux.github.io/tags/essen/</link>
       <pubDate>Wed, 13 Mar 2019 16:49:02 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/essen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/essen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food</title>
-      <link>https://username.github.io/tags/food/</link>
+      <link>https://jotilux.github.io/tags/food/</link>
       <pubDate>Wed, 13 Mar 2019 16:49:02 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/food/</guid>
+      
+      <guid>https://jotilux.github.io/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aubergine</title>
-      <link>https://username.github.io/tags/aubergine/</link>
+      <link>https://jotilux.github.io/tags/aubergine/</link>
       <pubDate>Tue, 12 Feb 2019 21:38:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/aubergine/</guid>
+      
+      <guid>https://jotilux.github.io/tags/aubergine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Couscous</title>
-      <link>https://username.github.io/tags/couscous/</link>
+      <link>https://jotilux.github.io/tags/couscous/</link>
       <pubDate>Tue, 12 Feb 2019 21:38:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/couscous/</guid>
+      
+      <guid>https://jotilux.github.io/tags/couscous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tomaten</title>
-      <link>https://username.github.io/tags/tomaten/</link>
+      <link>https://jotilux.github.io/tags/tomaten/</link>
       <pubDate>Tue, 12 Feb 2019 21:38:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tomaten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tomaten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rote Früchte</title>
-      <link>https://username.github.io/tags/rote-fr%C3%BCchte/</link>
+      <link>https://jotilux.github.io/tags/rote-fr%C3%BCchte/</link>
       <pubDate>Tue, 12 Feb 2019 21:38:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rote-fr%C3%BCchte/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rote-fr%C3%BCchte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beamer</title>
-      <link>https://username.github.io/tags/beamer/</link>
+      <link>https://jotilux.github.io/tags/beamer/</link>
       <pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/beamer/</guid>
+      
+      <guid>https://jotilux.github.io/tags/beamer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schelle</title>
-      <link>https://username.github.io/tags/schelle/</link>
+      <link>https://jotilux.github.io/tags/schelle/</link>
       <pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schelle/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traverse</title>
-      <link>https://username.github.io/tags/traverse/</link>
+      <link>https://jotilux.github.io/tags/traverse/</link>
       <pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/traverse/</guid>
+      
+      <guid>https://jotilux.github.io/tags/traverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flaschenring</title>
-      <link>https://username.github.io/tags/flaschenring/</link>
+      <link>https://jotilux.github.io/tags/flaschenring/</link>
       <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/flaschenring/</guid>
+      
+      <guid>https://jotilux.github.io/tags/flaschenring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getränke</title>
-      <link>https://username.github.io/tags/getr%C3%A4nke/</link>
+      <link>https://jotilux.github.io/tags/getr%C3%A4nke/</link>
       <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/getr%C3%A4nke/</guid>
+      
+      <guid>https://jotilux.github.io/tags/getr%C3%A4nke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nähen</title>
-      <link>https://username.github.io/tags/n%C3%A4hen/</link>
+      <link>https://jotilux.github.io/tags/n%C3%A4hen/</link>
       <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/n%C3%A4hen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/n%C3%A4hen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eierpappen</title>
-      <link>https://username.github.io/tags/eierpappen/</link>
+      <link>https://jotilux.github.io/tags/eierpappen/</link>
       <pubDate>Fri, 01 Feb 2019 20:46:16 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/eierpappen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/eierpappen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>upcycling</title>
-      <link>https://username.github.io/tags/upcycling/</link>
+      <link>https://jotilux.github.io/tags/upcycling/</link>
       <pubDate>Fri, 01 Feb 2019 20:46:16 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/upcycling/</guid>
+      
+      <guid>https://jotilux.github.io/tags/upcycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Echo</title>
-      <link>https://username.github.io/tags/echo/</link>
+      <link>https://jotilux.github.io/tags/echo/</link>
       <pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/echo/</guid>
+      
+      <guid>https://jotilux.github.io/tags/echo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>weniger krach</title>
-      <link>https://username.github.io/tags/weniger-krach/</link>
+      <link>https://jotilux.github.io/tags/weniger-krach/</link>
       <pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/weniger-krach/</guid>
+      
+      <guid>https://jotilux.github.io/tags/weniger-krach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kohlrouladen</title>
-      <link>https://username.github.io/tags/kohlrouladen/</link>
+      <link>https://jotilux.github.io/tags/kohlrouladen/</link>
       <pubDate>Mon, 14 Jan 2019 21:22:26 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kohlrouladen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kohlrouladen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nudelsuppe</title>
-      <link>https://username.github.io/tags/nudelsuppe/</link>
+      <link>https://jotilux.github.io/tags/nudelsuppe/</link>
       <pubDate>Mon, 14 Jan 2019 21:22:26 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/nudelsuppe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/nudelsuppe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weißkohl</title>
-      <link>https://username.github.io/tags/wei%C3%9Fkohl/</link>
+      <link>https://jotilux.github.io/tags/wei%C3%9Fkohl/</link>
       <pubDate>Mon, 14 Jan 2019 21:22:26 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wei%C3%9Fkohl/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wei%C3%9Fkohl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feinstaub</title>
-      <link>https://username.github.io/tags/feinstaub/</link>
+      <link>https://jotilux.github.io/tags/feinstaub/</link>
       <pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/feinstaub/</guid>
+      
+      <guid>https://jotilux.github.io/tags/feinstaub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jahreswechsel</title>
-      <link>https://username.github.io/tags/jahreswechsel/</link>
+      <link>https://jotilux.github.io/tags/jahreswechsel/</link>
       <pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/jahreswechsel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/jahreswechsel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luftdaten</title>
-      <link>https://username.github.io/tags/luftdaten/</link>
+      <link>https://jotilux.github.io/tags/luftdaten/</link>
       <pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/luftdaten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/luftdaten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opendata</title>
-      <link>https://username.github.io/tags/opendata/</link>
+      <link>https://jotilux.github.io/tags/opendata/</link>
       <pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/opendata/</guid>
+      
+      <guid>https://jotilux.github.io/tags/opendata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bratapfel</title>
-      <link>https://username.github.io/tags/bratapfel/</link>
+      <link>https://jotilux.github.io/tags/bratapfel/</link>
       <pubDate>Sun, 16 Dec 2018 17:47:45 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/bratapfel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/bratapfel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gulasch</title>
-      <link>https://username.github.io/tags/gulasch/</link>
+      <link>https://jotilux.github.io/tags/gulasch/</link>
       <pubDate>Sun, 16 Dec 2018 17:47:45 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/gulasch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/gulasch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Klöße</title>
-      <link>https://username.github.io/tags/kl%C3%B6%C3%9Fe/</link>
+      <link>https://jotilux.github.io/tags/kl%C3%B6%C3%9Fe/</link>
       <pubDate>Sun, 16 Dec 2018 17:47:45 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kl%C3%B6%C3%9Fe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kl%C3%B6%C3%9Fe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rotkraut</title>
-      <link>https://username.github.io/tags/rotkraut/</link>
+      <link>https://jotilux.github.io/tags/rotkraut/</link>
       <pubDate>Sun, 16 Dec 2018 17:47:45 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rotkraut/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rotkraut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suppe</title>
-      <link>https://username.github.io/tags/suppe/</link>
+      <link>https://jotilux.github.io/tags/suppe/</link>
       <pubDate>Sun, 16 Dec 2018 17:47:45 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/suppe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/suppe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brettchen</title>
-      <link>https://username.github.io/tags/brettchen/</link>
+      <link>https://jotilux.github.io/tags/brettchen/</link>
       <pubDate>Tue, 20 Nov 2018 16:16:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/brettchen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/brettchen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kurs</title>
-      <link>https://username.github.io/tags/kurs/</link>
+      <link>https://jotilux.github.io/tags/kurs/</link>
       <pubDate>Tue, 20 Nov 2018 16:16:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kurs/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kurs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Küche</title>
-      <link>https://username.github.io/tags/k%C3%BCche/</link>
+      <link>https://jotilux.github.io/tags/k%C3%BCche/</link>
       <pubDate>Tue, 20 Nov 2018 16:16:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/k%C3%BCche/</guid>
+      
+      <guid>https://jotilux.github.io/tags/k%C3%BCche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aufarbeitung</title>
-      <link>https://username.github.io/tags/aufarbeitung/</link>
+      <link>https://jotilux.github.io/tags/aufarbeitung/</link>
       <pubDate>Wed, 24 Oct 2018 17:05:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/aufarbeitung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/aufarbeitung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holzbänke</title>
-      <link>https://username.github.io/tags/holzb%C3%A4nke/</link>
+      <link>https://jotilux.github.io/tags/holzb%C3%A4nke/</link>
       <pubDate>Wed, 24 Oct 2018 17:05:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/holzb%C3%A4nke/</guid>
+      
+      <guid>https://jotilux.github.io/tags/holzb%C3%A4nke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holzsitzbänke</title>
-      <link>https://username.github.io/tags/holzsitzb%C3%A4nke/</link>
+      <link>https://jotilux.github.io/tags/holzsitzb%C3%A4nke/</link>
       <pubDate>Wed, 24 Oct 2018 17:05:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/holzsitzb%C3%A4nke/</guid>
+      
+      <guid>https://jotilux.github.io/tags/holzsitzb%C3%A4nke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinder- Sitzbank</title>
-      <link>https://username.github.io/tags/kinder-sitzbank/</link>
+      <link>https://jotilux.github.io/tags/kinder-sitzbank/</link>
       <pubDate>Wed, 24 Oct 2018 17:05:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kinder-sitzbank/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kinder-sitzbank/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restauration</title>
-      <link>https://username.github.io/tags/restauration/</link>
+      <link>https://jotilux.github.io/tags/restauration/</link>
       <pubDate>Wed, 24 Oct 2018 17:05:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/restauration/</guid>
+      
+      <guid>https://jotilux.github.io/tags/restauration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grünkohl</title>
-      <link>https://username.github.io/tags/gr%C3%BCnkohl/</link>
+      <link>https://jotilux.github.io/tags/gr%C3%BCnkohl/</link>
       <pubDate>Mon, 15 Oct 2018 19:25:34 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/gr%C3%BCnkohl/</guid>
+      
+      <guid>https://jotilux.github.io/tags/gr%C3%BCnkohl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kichererbsen</title>
-      <link>https://username.github.io/tags/kichererbsen/</link>
+      <link>https://jotilux.github.io/tags/kichererbsen/</link>
       <pubDate>Mon, 15 Oct 2018 19:25:34 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kichererbsen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kichererbsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rote Beete</title>
-      <link>https://username.github.io/tags/rote-beete/</link>
+      <link>https://jotilux.github.io/tags/rote-beete/</link>
       <pubDate>Mon, 15 Oct 2018 19:25:34 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rote-beete/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rote-beete/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schokolade</title>
-      <link>https://username.github.io/tags/schokolade/</link>
+      <link>https://jotilux.github.io/tags/schokolade/</link>
       <pubDate>Mon, 15 Oct 2018 19:25:34 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schokolade/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schokolade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Curry</title>
-      <link>https://username.github.io/tags/curry/</link>
+      <link>https://jotilux.github.io/tags/curry/</link>
       <pubDate>Sun, 09 Sep 2018 13:44:52 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/curry/</guid>
+      
+      <guid>https://jotilux.github.io/tags/curry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erbsen</title>
-      <link>https://username.github.io/tags/erbsen/</link>
+      <link>https://jotilux.github.io/tags/erbsen/</link>
       <pubDate>Sun, 09 Sep 2018 13:44:52 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/erbsen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/erbsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kürbis</title>
-      <link>https://username.github.io/tags/k%C3%BCrbis/</link>
+      <link>https://jotilux.github.io/tags/k%C3%BCrbis/</link>
       <pubDate>Sun, 09 Sep 2018 13:44:52 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/k%C3%BCrbis/</guid>
+      
+      <guid>https://jotilux.github.io/tags/k%C3%BCrbis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasmaschneider</title>
-      <link>https://username.github.io/tags/plasmaschneider/</link>
+      <link>https://jotilux.github.io/tags/plasmaschneider/</link>
       <pubDate>Fri, 07 Sep 2018 11:26:09 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/plasmaschneider/</guid>
+      
+      <guid>https://jotilux.github.io/tags/plasmaschneider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lecker</title>
-      <link>https://username.github.io/tags/lecker/</link>
+      <link>https://jotilux.github.io/tags/lecker/</link>
       <pubDate>Tue, 17 Apr 2018 17:31:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/lecker/</guid>
+      
+      <guid>https://jotilux.github.io/tags/lecker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vegan</title>
-      <link>https://username.github.io/tags/vegan/</link>
+      <link>https://jotilux.github.io/tags/vegan/</link>
       <pubDate>Wed, 07 Mar 2018 17:27:28 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/vegan/</guid>
+      
+      <guid>https://jotilux.github.io/tags/vegan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuscheltier</title>
-      <link>https://username.github.io/tags/kuscheltier/</link>
+      <link>https://jotilux.github.io/tags/kuscheltier/</link>
       <pubDate>Tue, 06 Mar 2018 09:27:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kuscheltier/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kuscheltier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schaf</title>
-      <link>https://username.github.io/tags/schaf/</link>
+      <link>https://jotilux.github.io/tags/schaf/</link>
       <pubDate>Tue, 06 Mar 2018 09:27:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schaf/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schaf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spielzeug</title>
-      <link>https://username.github.io/tags/spielzeug/</link>
+      <link>https://jotilux.github.io/tags/spielzeug/</link>
       <pubDate>Tue, 06 Mar 2018 09:27:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spielzeug/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spielzeug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio</title>
-      <link>https://username.github.io/tags/audio/</link>
+      <link>https://jotilux.github.io/tags/audio/</link>
       <pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/audio/</guid>
+      
+      <guid>https://jotilux.github.io/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haskell</title>
-      <link>https://username.github.io/tags/haskell/</link>
+      <link>https://jotilux.github.io/tags/haskell/</link>
       <pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/haskell/</guid>
+      
+      <guid>https://jotilux.github.io/tags/haskell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmierung</title>
-      <link>https://username.github.io/tags/programmierung/</link>
+      <link>https://jotilux.github.io/tags/programmierung/</link>
       <pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/programmierung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/programmierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linsen</title>
-      <link>https://username.github.io/tags/linsen/</link>
+      <link>https://jotilux.github.io/tags/linsen/</link>
       <pubDate>Tue, 13 Feb 2018 18:51:48 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/linsen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/linsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sesam</title>
-      <link>https://username.github.io/tags/sesam/</link>
+      <link>https://jotilux.github.io/tags/sesam/</link>
       <pubDate>Tue, 13 Feb 2018 18:51:48 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/sesam/</guid>
+      
+      <guid>https://jotilux.github.io/tags/sesam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tajine</title>
-      <link>https://username.github.io/tags/tajine/</link>
+      <link>https://jotilux.github.io/tags/tajine/</link>
       <pubDate>Tue, 13 Feb 2018 18:51:48 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tajine/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tajine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arabisch</title>
-      <link>https://username.github.io/tags/arabisch/</link>
+      <link>https://jotilux.github.io/tags/arabisch/</link>
       <pubDate>Tue, 13 Feb 2018 18:51:48 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/arabisch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/arabisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dunkelheit</title>
-      <link>https://username.github.io/tags/dunkelheit/</link>
+      <link>https://jotilux.github.io/tags/dunkelheit/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/dunkelheit/</guid>
+      
+      <guid>https://jotilux.github.io/tags/dunkelheit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ES LEUCHTET</title>
-      <link>https://username.github.io/tags/es-leuchtet/</link>
+      <link>https://jotilux.github.io/tags/es-leuchtet/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/es-leuchtet/</guid>
+      
+      <guid>https://jotilux.github.io/tags/es-leuchtet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mütze</title>
-      <link>https://username.github.io/tags/m%C3%BCtze/</link>
+      <link>https://jotilux.github.io/tags/m%C3%BCtze/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/m%C3%BCtze/</guid>
+      
+      <guid>https://jotilux.github.io/tags/m%C3%BCtze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflektor</title>
-      <link>https://username.github.io/tags/reflektor/</link>
+      <link>https://jotilux.github.io/tags/reflektor/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/reflektor/</guid>
+      
+      <guid>https://jotilux.github.io/tags/reflektor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sicherheit</title>
-      <link>https://username.github.io/tags/sicherheit/</link>
+      <link>https://jotilux.github.io/tags/sicherheit/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/sicherheit/</guid>
+      
+      <guid>https://jotilux.github.io/tags/sicherheit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stricken</title>
-      <link>https://username.github.io/tags/stricken/</link>
+      <link>https://jotilux.github.io/tags/stricken/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/stricken/</guid>
+      
+      <guid>https://jotilux.github.io/tags/stricken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wolle</title>
-      <link>https://username.github.io/tags/wolle/</link>
+      <link>https://jotilux.github.io/tags/wolle/</link>
       <pubDate>Mon, 15 Jan 2018 22:31:41 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wolle/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wolle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freigelände</title>
-      <link>https://username.github.io/tags/freigel%C3%A4nde/</link>
+      <link>https://jotilux.github.io/tags/freigel%C3%A4nde/</link>
       <pubDate>Thu, 14 Dec 2017 22:22:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/freigel%C3%A4nde/</guid>
+      
+      <guid>https://jotilux.github.io/tags/freigel%C3%A4nde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KiTa</title>
-      <link>https://username.github.io/tags/kita/</link>
+      <link>https://jotilux.github.io/tags/kita/</link>
       <pubDate>Thu, 14 Dec 2017 22:22:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kita/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spielzeugmöbel</title>
-      <link>https://username.github.io/tags/spielzeugm%C3%B6bel/</link>
+      <link>https://jotilux.github.io/tags/spielzeugm%C3%B6bel/</link>
       <pubDate>Thu, 14 Dec 2017 22:22:39 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spielzeugm%C3%B6bel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spielzeugm%C3%B6bel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rosenkohl</title>
-      <link>https://username.github.io/tags/rosenkohl/</link>
+      <link>https://jotilux.github.io/tags/rosenkohl/</link>
       <pubDate>Sun, 10 Dec 2017 18:16:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rosenkohl/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rosenkohl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glas</title>
-      <link>https://username.github.io/tags/glas/</link>
+      <link>https://jotilux.github.io/tags/glas/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/glas/</guid>
+      
+      <guid>https://jotilux.github.io/tags/glas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravur</title>
-      <link>https://username.github.io/tags/gravur/</link>
+      <link>https://jotilux.github.io/tags/gravur/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/gravur/</guid>
+      
+      <guid>https://jotilux.github.io/tags/gravur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LED</title>
-      <link>https://username.github.io/tags/led/</link>
+      <link>https://jotilux.github.io/tags/led/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/led/</guid>
+      
+      <guid>https://jotilux.github.io/tags/led/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser</title>
-      <link>https://username.github.io/tags/laser/</link>
+      <link>https://jotilux.github.io/tags/laser/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/laser/</guid>
+      
+      <guid>https://jotilux.github.io/tags/laser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Löten</title>
-      <link>https://username.github.io/tags/l%C3%B6ten/</link>
+      <link>https://jotilux.github.io/tags/l%C3%B6ten/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/l%C3%B6ten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/l%C3%B6ten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schwibbogen</title>
-      <link>https://username.github.io/tags/schwibbogen/</link>
+      <link>https://jotilux.github.io/tags/schwibbogen/</link>
       <pubDate>Tue, 05 Dec 2017 19:10:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schwibbogen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schwibbogen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holztisch</title>
-      <link>https://username.github.io/tags/holztisch/</link>
+      <link>https://jotilux.github.io/tags/holztisch/</link>
       <pubDate>Tue, 28 Nov 2017 22:19:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/holztisch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/holztisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kindereinrichtung</title>
-      <link>https://username.github.io/tags/kindereinrichtung/</link>
+      <link>https://jotilux.github.io/tags/kindereinrichtung/</link>
       <pubDate>Tue, 28 Nov 2017 22:19:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kindereinrichtung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kindereinrichtung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FSFE</title>
-      <link>https://username.github.io/tags/fsfe/</link>
+      <link>https://jotilux.github.io/tags/fsfe/</link>
       <pubDate>Tue, 28 Nov 2017 17:28:35 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/fsfe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/fsfe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freie Software</title>
-      <link>https://username.github.io/tags/freie-software/</link>
+      <link>https://jotilux.github.io/tags/freie-software/</link>
       <pubDate>Tue, 28 Nov 2017 17:28:35 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/freie-software/</guid>
+      
+      <guid>https://jotilux.github.io/tags/freie-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anonymität</title>
-      <link>https://username.github.io/tags/anonymit%C3%A4t/</link>
+      <link>https://jotilux.github.io/tags/anonymit%C3%A4t/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/anonymit%C3%A4t/</guid>
+      
+      <guid>https://jotilux.github.io/tags/anonymit%C3%A4t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Darknet</title>
-      <link>https://username.github.io/tags/darknet/</link>
+      <link>https://jotilux.github.io/tags/darknet/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/darknet/</guid>
+      
+      <guid>https://jotilux.github.io/tags/darknet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tor</title>
-      <link>https://username.github.io/tags/tor/</link>
+      <link>https://jotilux.github.io/tags/tor/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tor/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tor Onion Routing</title>
-      <link>https://username.github.io/tags/tor-onion-routing/</link>
+      <link>https://jotilux.github.io/tags/tor-onion-routing/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tor-onion-routing/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tor-onion-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tor Onion Services</title>
-      <link>https://username.github.io/tags/tor-onion-services/</link>
+      <link>https://jotilux.github.io/tags/tor-onion-services/</link>
       <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tor-onion-services/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tor-onion-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kekse</title>
-      <link>https://username.github.io/tags/kekse/</link>
+      <link>https://jotilux.github.io/tags/kekse/</link>
       <pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kekse/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kekse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kennelernabend</title>
-      <link>https://username.github.io/tags/kennelernabend/</link>
+      <link>https://jotilux.github.io/tags/kennelernabend/</link>
       <pubDate>Tue, 14 Nov 2017 19:48:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kennelernabend/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kennelernabend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knoblauch</title>
-      <link>https://username.github.io/tags/knoblauch/</link>
+      <link>https://jotilux.github.io/tags/knoblauch/</link>
       <pubDate>Tue, 14 Nov 2017 19:48:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/knoblauch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/knoblauch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orange</title>
-      <link>https://username.github.io/tags/orange/</link>
+      <link>https://jotilux.github.io/tags/orange/</link>
       <pubDate>Tue, 14 Nov 2017 19:48:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/orange/</guid>
+      
+      <guid>https://jotilux.github.io/tags/orange/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wirsing</title>
-      <link>https://username.github.io/tags/wirsing/</link>
+      <link>https://jotilux.github.io/tags/wirsing/</link>
       <pubDate>Tue, 14 Nov 2017 19:48:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wirsing/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wirsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wirsingroulade</title>
-      <link>https://username.github.io/tags/wirsingroulade/</link>
+      <link>https://jotilux.github.io/tags/wirsingroulade/</link>
       <pubDate>Tue, 14 Nov 2017 19:48:37 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wirsingroulade/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wirsingroulade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bier</title>
-      <link>https://username.github.io/tags/bier/</link>
+      <link>https://jotilux.github.io/tags/bier/</link>
       <pubDate>Thu, 21 Sep 2017 17:28:55 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/bier/</guid>
+      
+      <guid>https://jotilux.github.io/tags/bier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bierbrauen</title>
-      <link>https://username.github.io/tags/bierbrauen/</link>
+      <link>https://jotilux.github.io/tags/bierbrauen/</link>
       <pubDate>Thu, 21 Sep 2017 17:28:55 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/bierbrauen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/bierbrauen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>https://username.github.io/tags/workshop/</link>
+      <link>https://jotilux.github.io/tags/workshop/</link>
       <pubDate>Thu, 21 Sep 2017 17:28:55 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/workshop/</guid>
+      
+      <guid>https://jotilux.github.io/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Baum</title>
-      <link>https://username.github.io/tags/baum/</link>
+      <link>https://jotilux.github.io/tags/baum/</link>
       <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/baum/</guid>
+      
+      <guid>https://jotilux.github.io/tags/baum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNC-Fräse</title>
-      <link>https://username.github.io/tags/cnc-fr%C3%A4se/</link>
+      <link>https://jotilux.github.io/tags/cnc-fr%C3%A4se/</link>
       <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/cnc-fr%C3%A4se/</guid>
+      
+      <guid>https://jotilux.github.io/tags/cnc-fr%C3%A4se/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schild</title>
-      <link>https://username.github.io/tags/schild/</link>
+      <link>https://jotilux.github.io/tags/schild/</link>
       <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schild/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schild/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tafel</title>
-      <link>https://username.github.io/tags/tafel/</link>
+      <link>https://jotilux.github.io/tags/tafel/</link>
       <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tafel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tafel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mais</title>
-      <link>https://username.github.io/tags/mais/</link>
+      <link>https://jotilux.github.io/tags/mais/</link>
       <pubDate>Tue, 12 Sep 2017 17:56:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/mais/</guid>
+      
+      <guid>https://jotilux.github.io/tags/mais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nüsse</title>
-      <link>https://username.github.io/tags/n%C3%BCsse/</link>
+      <link>https://jotilux.github.io/tags/n%C3%BCsse/</link>
       <pubDate>Tue, 12 Sep 2017 17:56:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/n%C3%BCsse/</guid>
+      
+      <guid>https://jotilux.github.io/tags/n%C3%BCsse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Äpfel</title>
-      <link>https://username.github.io/tags/%C3%A4pfel/</link>
+      <link>https://jotilux.github.io/tags/%C3%A4pfel/</link>
       <pubDate>Tue, 12 Sep 2017 17:56:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/%C3%A4pfel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/%C3%A4pfel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holzwerkstatt</title>
-      <link>https://username.github.io/tags/holzwerkstatt/</link>
+      <link>https://jotilux.github.io/tags/holzwerkstatt/</link>
       <pubDate>Fri, 08 Sep 2017 10:07:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/holzwerkstatt/</guid>
+      
+      <guid>https://jotilux.github.io/tags/holzwerkstatt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideathek</title>
-      <link>https://username.github.io/tags/ideathek/</link>
+      <link>https://jotilux.github.io/tags/ideathek/</link>
       <pubDate>Fri, 08 Sep 2017 10:07:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/ideathek/</guid>
+      
+      <guid>https://jotilux.github.io/tags/ideathek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projekte</title>
-      <link>https://username.github.io/tags/projekte/</link>
+      <link>https://jotilux.github.io/tags/projekte/</link>
       <pubDate>Fri, 08 Sep 2017 10:07:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/projekte/</guid>
+      
+      <guid>https://jotilux.github.io/tags/projekte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Künstliche Intelligenz</title>
-      <link>https://username.github.io/tags/k%C3%BCnstliche-intelligenz/</link>
+      <link>https://jotilux.github.io/tags/k%C3%BCnstliche-intelligenz/</link>
       <pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/k%C3%BCnstliche-intelligenz/</guid>
+      
+      <guid>https://jotilux.github.io/tags/k%C3%BCnstliche-intelligenz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science</title>
-      <link>https://username.github.io/tags/science/</link>
+      <link>https://jotilux.github.io/tags/science/</link>
       <pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/science/</guid>
+      
+      <guid>https://jotilux.github.io/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wissenschaft</title>
-      <link>https://username.github.io/tags/wissenschaft/</link>
+      <link>https://jotilux.github.io/tags/wissenschaft/</link>
       <pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wissenschaft/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wissenschaft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naher Osten</title>
-      <link>https://username.github.io/tags/naher-osten/</link>
+      <link>https://jotilux.github.io/tags/naher-osten/</link>
       <pubDate>Mon, 14 Aug 2017 15:59:30 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/naher-osten/</guid>
+      
+      <guid>https://jotilux.github.io/tags/naher-osten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nordafrika</title>
-      <link>https://username.github.io/tags/nordafrika/</link>
+      <link>https://jotilux.github.io/tags/nordafrika/</link>
       <pubDate>Mon, 14 Aug 2017 15:59:30 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/nordafrika/</guid>
+      
+      <guid>https://jotilux.github.io/tags/nordafrika/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Burrito</title>
-      <link>https://username.github.io/tags/burrito/</link>
+      <link>https://jotilux.github.io/tags/burrito/</link>
       <pubDate>Sun, 16 Jul 2017 14:46:30 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/burrito/</guid>
+      
+      <guid>https://jotilux.github.io/tags/burrito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wrap</title>
-      <link>https://username.github.io/tags/wrap/</link>
+      <link>https://jotilux.github.io/tags/wrap/</link>
       <pubDate>Sun, 16 Jul 2017 14:46:30 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/wrap/</guid>
+      
+      <guid>https://jotilux.github.io/tags/wrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kanaren</title>
-      <link>https://username.github.io/tags/kanaren/</link>
+      <link>https://jotilux.github.io/tags/kanaren/</link>
       <pubDate>Tue, 13 Jun 2017 06:16:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/kanaren/</guid>
+      
+      <guid>https://jotilux.github.io/tags/kanaren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Melonensalat</title>
-      <link>https://username.github.io/tags/melonensalat/</link>
+      <link>https://jotilux.github.io/tags/melonensalat/</link>
       <pubDate>Tue, 13 Jun 2017 06:16:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/melonensalat/</guid>
+      
+      <guid>https://jotilux.github.io/tags/melonensalat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mojo rojo</title>
-      <link>https://username.github.io/tags/mojo-rojo/</link>
+      <link>https://jotilux.github.io/tags/mojo-rojo/</link>
       <pubDate>Tue, 13 Jun 2017 06:16:03 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/mojo-rojo/</guid>
+      
+      <guid>https://jotilux.github.io/tags/mojo-rojo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improkochen</title>
-      <link>https://username.github.io/tags/improkochen/</link>
+      <link>https://jotilux.github.io/tags/improkochen/</link>
       <pubDate>Sat, 13 May 2017 10:02:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/improkochen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/improkochen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spende</title>
-      <link>https://username.github.io/tags/spende/</link>
+      <link>https://jotilux.github.io/tags/spende/</link>
       <pubDate>Sat, 13 May 2017 10:02:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spende/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spende/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Überraschung</title>
-      <link>https://username.github.io/tags/%C3%BCberraschung/</link>
+      <link>https://jotilux.github.io/tags/%C3%BCberraschung/</link>
       <pubDate>Sat, 13 May 2017 10:02:29 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/%C3%BCberraschung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/%C3%BCberraschung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://username.github.io/tags/go/</link>
+      <link>https://jotilux.github.io/tags/go/</link>
       <pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/go/</guid>
+      
+      <guid>https://jotilux.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schach</title>
-      <link>https://username.github.io/tags/schach/</link>
+      <link>https://jotilux.github.io/tags/schach/</link>
       <pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schach/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spieleabend</title>
-      <link>https://username.github.io/tags/spieleabend/</link>
+      <link>https://jotilux.github.io/tags/spieleabend/</link>
       <pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spieleabend/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spieleabend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videospiele</title>
-      <link>https://username.github.io/tags/videospiele/</link>
+      <link>https://jotilux.github.io/tags/videospiele/</link>
       <pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/videospiele/</guid>
+      
+      <guid>https://jotilux.github.io/tags/videospiele/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garten Arbeitseinsatz</title>
-      <link>https://username.github.io/tags/garten-arbeitseinsatz/</link>
+      <link>https://jotilux.github.io/tags/garten-arbeitseinsatz/</link>
       <pubDate>Sun, 02 Apr 2017 10:49:05 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/garten-arbeitseinsatz/</guid>
+      
+      <guid>https://jotilux.github.io/tags/garten-arbeitseinsatz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bärlauch</title>
-      <link>https://username.github.io/tags/b%C3%A4rlauch/</link>
+      <link>https://jotilux.github.io/tags/b%C3%A4rlauch/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/b%C3%A4rlauch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/b%C3%A4rlauch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Karotte</title>
-      <link>https://username.github.io/tags/karotte/</link>
+      <link>https://jotilux.github.io/tags/karotte/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/karotte/</guid>
+      
+      <guid>https://jotilux.github.io/tags/karotte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Möhre</title>
-      <link>https://username.github.io/tags/m%C3%B6hre/</link>
+      <link>https://jotilux.github.io/tags/m%C3%B6hre/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/m%C3%B6hre/</guid>
+      
+      <guid>https://jotilux.github.io/tags/m%C3%B6hre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nudeln</title>
-      <link>https://username.github.io/tags/nudeln/</link>
+      <link>https://jotilux.github.io/tags/nudeln/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/nudeln/</guid>
+      
+      <guid>https://jotilux.github.io/tags/nudeln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pesto</title>
-      <link>https://username.github.io/tags/pesto/</link>
+      <link>https://jotilux.github.io/tags/pesto/</link>
       <pubDate>Sat, 11 Mar 2017 21:10:43 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/pesto/</guid>
+      
+      <guid>https://jotilux.github.io/tags/pesto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNC</title>
-      <link>https://username.github.io/tags/cnc/</link>
+      <link>https://jotilux.github.io/tags/cnc/</link>
       <pubDate>Thu, 09 Mar 2017 19:10:11 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/cnc/</guid>
+      
+      <guid>https://jotilux.github.io/tags/cnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rübe</title>
-      <link>https://username.github.io/tags/r%C3%BCbe/</link>
+      <link>https://jotilux.github.io/tags/r%C3%BCbe/</link>
       <pubDate>Thu, 09 Feb 2017 18:48:25 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/r%C3%BCbe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/r%C3%BCbe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steckrübe</title>
-      <link>https://username.github.io/tags/steckr%C3%BCbe/</link>
+      <link>https://jotilux.github.io/tags/steckr%C3%BCbe/</link>
       <pubDate>Thu, 09 Feb 2017 18:48:25 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/steckr%C3%BCbe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/steckr%C3%BCbe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elektronik</title>
-      <link>https://username.github.io/tags/elektronik/</link>
+      <link>https://jotilux.github.io/tags/elektronik/</link>
       <pubDate>Fri, 03 Feb 2017 18:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/elektronik/</guid>
+      
+      <guid>https://jotilux.github.io/tags/elektronik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Junghacker</title>
-      <link>https://username.github.io/tags/junghacker/</link>
+      <link>https://jotilux.github.io/tags/junghacker/</link>
       <pubDate>Fri, 27 Jan 2017 09:27:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/junghacker/</guid>
+      
+      <guid>https://jotilux.github.io/tags/junghacker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brot</title>
-      <link>https://username.github.io/tags/brot/</link>
+      <link>https://jotilux.github.io/tags/brot/</link>
       <pubDate>Sun, 08 Jan 2017 18:32:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/brot/</guid>
+      
+      <guid>https://jotilux.github.io/tags/brot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tarte Tatin</title>
-      <link>https://username.github.io/tags/tarte-tatin/</link>
+      <link>https://jotilux.github.io/tags/tarte-tatin/</link>
       <pubDate>Sun, 08 Jan 2017 18:32:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/tarte-tatin/</guid>
+      
+      <guid>https://jotilux.github.io/tags/tarte-tatin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zwiebel</title>
-      <link>https://username.github.io/tags/zwiebel/</link>
+      <link>https://jotilux.github.io/tags/zwiebel/</link>
       <pubDate>Sun, 08 Jan 2017 18:32:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/zwiebel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/zwiebel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zwiebelsuppe</title>
-      <link>https://username.github.io/tags/zwiebelsuppe/</link>
+      <link>https://jotilux.github.io/tags/zwiebelsuppe/</link>
       <pubDate>Sun, 08 Jan 2017 18:32:18 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/zwiebelsuppe/</guid>
+      
+      <guid>https://jotilux.github.io/tags/zwiebelsuppe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sauerkraut</title>
-      <link>https://username.github.io/tags/sauerkraut/</link>
+      <link>https://jotilux.github.io/tags/sauerkraut/</link>
       <pubDate>Wed, 14 Dec 2016 18:49:13 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/sauerkraut/</guid>
+      
+      <guid>https://jotilux.github.io/tags/sauerkraut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sauerkrautpfanne</title>
-      <link>https://username.github.io/tags/sauerkrautpfanne/</link>
+      <link>https://jotilux.github.io/tags/sauerkrautpfanne/</link>
       <pubDate>Wed, 14 Dec 2016 18:49:13 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/sauerkrautpfanne/</guid>
+      
+      <guid>https://jotilux.github.io/tags/sauerkrautpfanne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.Y.C.P.</title>
-      <link>https://username.github.io/tags/a.y.c.p./</link>
+      <link>https://jotilux.github.io/tags/a.y.c.p./</link>
       <pubDate>Wed, 07 Dec 2016 21:29:58 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/a.y.c.p./</guid>
+      
+      <guid>https://jotilux.github.io/tags/a.y.c.p./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basteln</title>
-      <link>https://username.github.io/tags/basteln/</link>
+      <link>https://jotilux.github.io/tags/basteln/</link>
       <pubDate>Wed, 07 Dec 2016 21:29:58 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/basteln/</guid>
+      
+      <guid>https://jotilux.github.io/tags/basteln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fest</title>
-      <link>https://username.github.io/tags/fest/</link>
+      <link>https://jotilux.github.io/tags/fest/</link>
       <pubDate>Wed, 07 Dec 2016 21:29:58 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/fest/</guid>
+      
+      <guid>https://jotilux.github.io/tags/fest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freiimfelde</title>
-      <link>https://username.github.io/tags/freiimfelde/</link>
+      <link>https://jotilux.github.io/tags/freiimfelde/</link>
       <pubDate>Wed, 07 Dec 2016 21:29:58 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/freiimfelde/</guid>
+      
+      <guid>https://jotilux.github.io/tags/freiimfelde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brettspiele</title>
-      <link>https://username.github.io/tags/brettspiele/</link>
+      <link>https://jotilux.github.io/tags/brettspiele/</link>
       <pubDate>Tue, 22 Nov 2016 20:20:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/brettspiele/</guid>
+      
+      <guid>https://jotilux.github.io/tags/brettspiele/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games</title>
-      <link>https://username.github.io/tags/games/</link>
+      <link>https://jotilux.github.io/tags/games/</link>
       <pubDate>Tue, 22 Nov 2016 20:20:38 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/games/</guid>
+      
+      <guid>https://jotilux.github.io/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apfelmus</title>
-      <link>https://username.github.io/tags/apfelmus/</link>
+      <link>https://jotilux.github.io/tags/apfelmus/</link>
       <pubDate>Sat, 12 Nov 2016 18:03:24 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/apfelmus/</guid>
+      
+      <guid>https://jotilux.github.io/tags/apfelmus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Winter</title>
-      <link>https://username.github.io/tags/winter/</link>
+      <link>https://jotilux.github.io/tags/winter/</link>
       <pubDate>Sat, 12 Nov 2016 18:03:24 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/winter/</guid>
+      
+      <guid>https://jotilux.github.io/tags/winter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dal</title>
-      <link>https://username.github.io/tags/dal/</link>
+      <link>https://jotilux.github.io/tags/dal/</link>
       <pubDate>Mon, 12 Sep 2016 21:11:04 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/dal/</guid>
+      
+      <guid>https://jotilux.github.io/tags/dal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hülsenfrüchte</title>
-      <link>https://username.github.io/tags/h%C3%BClsenfr%C3%BCchte/</link>
+      <link>https://jotilux.github.io/tags/h%C3%BClsenfr%C3%BCchte/</link>
       <pubDate>Mon, 12 Sep 2016 21:11:04 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/h%C3%BClsenfr%C3%BCchte/</guid>
+      
+      <guid>https://jotilux.github.io/tags/h%C3%BClsenfr%C3%BCchte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indien</title>
-      <link>https://username.github.io/tags/indien/</link>
+      <link>https://jotilux.github.io/tags/indien/</link>
       <pubDate>Mon, 12 Sep 2016 21:11:04 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/indien/</guid>
+      
+      <guid>https://jotilux.github.io/tags/indien/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limonade</title>
-      <link>https://username.github.io/tags/limonade/</link>
+      <link>https://jotilux.github.io/tags/limonade/</link>
       <pubDate>Mon, 12 Sep 2016 21:11:04 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/limonade/</guid>
+      
+      <guid>https://jotilux.github.io/tags/limonade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>griechisch</title>
-      <link>https://username.github.io/tags/griechisch/</link>
+      <link>https://jotilux.github.io/tags/griechisch/</link>
       <pubDate>Mon, 15 Aug 2016 18:03:20 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/griechisch/</guid>
+      
+      <guid>https://jotilux.github.io/tags/griechisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Falafel</title>
-      <link>https://username.github.io/tags/falafel/</link>
+      <link>https://jotilux.github.io/tags/falafel/</link>
       <pubDate>Sat, 09 Jul 2016 08:35:27 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/falafel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/falafel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foto</title>
-      <link>https://username.github.io/tags/foto/</link>
+      <link>https://jotilux.github.io/tags/foto/</link>
       <pubDate>Thu, 19 May 2016 09:55:17 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/foto/</guid>
+      
+      <guid>https://jotilux.github.io/tags/foto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrogaming</title>
-      <link>https://username.github.io/tags/retrogaming/</link>
+      <link>https://jotilux.github.io/tags/retrogaming/</link>
       <pubDate>Tue, 23 Feb 2016 22:53:27 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/retrogaming/</guid>
+      
+      <guid>https://jotilux.github.io/tags/retrogaming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fotoentwicklung</title>
-      <link>https://username.github.io/tags/fotoentwicklung/</link>
+      <link>https://jotilux.github.io/tags/fotoentwicklung/</link>
       <pubDate>Wed, 17 Feb 2016 10:09:42 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/fotoentwicklung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/fotoentwicklung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computerspiele</title>
-      <link>https://username.github.io/tags/computerspiele/</link>
+      <link>https://jotilux.github.io/tags/computerspiele/</link>
       <pubDate>Mon, 11 Jan 2016 19:26:51 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/computerspiele/</guid>
+      
+      <guid>https://jotilux.github.io/tags/computerspiele/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spiele</title>
-      <link>https://username.github.io/tags/spiele/</link>
+      <link>https://jotilux.github.io/tags/spiele/</link>
       <pubDate>Mon, 11 Jan 2016 19:26:51 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spiele/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spiele/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metall</title>
-      <link>https://username.github.io/tags/metall/</link>
+      <link>https://jotilux.github.io/tags/metall/</link>
       <pubDate>Mon, 12 Oct 2015 13:43:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/metall/</guid>
+      
+      <guid>https://jotilux.github.io/tags/metall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schnappschüsse</title>
-      <link>https://username.github.io/tags/schnappsch%C3%BCsse/</link>
+      <link>https://jotilux.github.io/tags/schnappsch%C3%BCsse/</link>
       <pubDate>Tue, 26 May 2015 09:20:06 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/schnappsch%C3%BCsse/</guid>
+      
+      <guid>https://jotilux.github.io/tags/schnappsch%C3%BCsse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recycling</title>
-      <link>https://username.github.io/tags/recycling/</link>
+      <link>https://jotilux.github.io/tags/recycling/</link>
       <pubDate>Fri, 20 Feb 2015 12:59:16 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/recycling/</guid>
+      
+      <guid>https://jotilux.github.io/tags/recycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fahrrad</title>
-      <link>https://username.github.io/tags/fahrrad/</link>
+      <link>https://jotilux.github.io/tags/fahrrad/</link>
       <pubDate>Tue, 20 Jan 2015 11:12:49 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/fahrrad/</guid>
+      
+      <guid>https://jotilux.github.io/tags/fahrrad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maschinen</title>
-      <link>https://username.github.io/tags/maschinen/</link>
+      <link>https://jotilux.github.io/tags/maschinen/</link>
       <pubDate>Sun, 02 Nov 2014 09:12:02 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/maschinen/</guid>
+      
+      <guid>https://jotilux.github.io/tags/maschinen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Möbel</title>
-      <link>https://username.github.io/tags/m%C3%B6bel/</link>
+      <link>https://jotilux.github.io/tags/m%C3%B6bel/</link>
       <pubDate>Tue, 24 Jun 2014 14:07:30 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/m%C3%B6bel/</guid>
+      
+      <guid>https://jotilux.github.io/tags/m%C3%B6bel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RC-Modellbau</title>
-      <link>https://username.github.io/tags/rc-modellbau/</link>
+      <link>https://jotilux.github.io/tags/rc-modellbau/</link>
       <pubDate>Fri, 06 Jun 2014 14:20:55 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rc-modellbau/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rc-modellbau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spenden / Sponsoring</title>
-      <link>https://username.github.io/tags/spenden-/-sponsoring/</link>
+      <link>https://jotilux.github.io/tags/spenden-/-sponsoring/</link>
       <pubDate>Sat, 25 Jan 2014 21:34:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/spenden-/-sponsoring/</guid>
+      
+      <guid>https://jotilux.github.io/tags/spenden-/-sponsoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plotter</title>
-      <link>https://username.github.io/tags/plotter/</link>
+      <link>https://jotilux.github.io/tags/plotter/</link>
       <pubDate>Tue, 17 Dec 2013 14:15:24 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/plotter/</guid>
+      
+      <guid>https://jotilux.github.io/tags/plotter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid Prototyping</title>
-      <link>https://username.github.io/tags/rapid-prototyping/</link>
+      <link>https://jotilux.github.io/tags/rapid-prototyping/</link>
       <pubDate>Mon, 24 Jun 2013 14:24:46 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/rapid-prototyping/</guid>
+      
+      <guid>https://jotilux.github.io/tags/rapid-prototyping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analoge Fotografie</title>
-      <link>https://username.github.io/tags/analoge-fotografie/</link>
+      <link>https://jotilux.github.io/tags/analoge-fotografie/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/analoge-fotografie/</guid>
+      
+      <guid>https://jotilux.github.io/tags/analoge-fotografie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analogfotografie</title>
-      <link>https://username.github.io/tags/analogfotografie/</link>
+      <link>https://jotilux.github.io/tags/analogfotografie/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/analogfotografie/</guid>
+      
+      <guid>https://jotilux.github.io/tags/analogfotografie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dunkelkammer</title>
-      <link>https://username.github.io/tags/dunkelkammer/</link>
+      <link>https://jotilux.github.io/tags/dunkelkammer/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/dunkelkammer/</guid>
+      
+      <guid>https://jotilux.github.io/tags/dunkelkammer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filmentwicklung</title>
-      <link>https://username.github.io/tags/filmentwicklung/</link>
+      <link>https://jotilux.github.io/tags/filmentwicklung/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/filmentwicklung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/filmentwicklung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fotograife</title>
-      <link>https://username.github.io/tags/fotograife/</link>
+      <link>https://jotilux.github.io/tags/fotograife/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/fotograife/</guid>
+      
+      <guid>https://jotilux.github.io/tags/fotograife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S/W-Entwicklung</title>
-      <link>https://username.github.io/tags/s/w-entwicklung/</link>
+      <link>https://jotilux.github.io/tags/s/w-entwicklung/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/s/w-entwicklung/</guid>
+      
+      <guid>https://jotilux.github.io/tags/s/w-entwicklung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S/W-Fotografie</title>
-      <link>https://username.github.io/tags/s/w-fotografie/</link>
+      <link>https://jotilux.github.io/tags/s/w-fotografie/</link>
       <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/s/w-fotografie/</guid>
+      
+      <guid>https://jotilux.github.io/tags/s/w-fotografie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://username.github.io/tags/software/</link>
+      <link>https://jotilux.github.io/tags/software/</link>
       <pubDate>Fri, 01 Feb 2013 13:46:21 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/tags/software/</guid>
+      
+      <guid>https://jotilux.github.io/tags/software/</guid>
       <description></description>
     </item>
     
