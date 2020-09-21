@@ -1,35 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Software on Eigenbaukombinat</title>
-    <link>https://jotilux.github.io/tags/software/</link>
-    <description>Recent content in Software on Eigenbaukombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Feb 2013 13:46:21 +0000</lastBuildDate>
-    
-	<atom:link href="https://jotilux.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Konstruktion mit CAD, Sketchup und Co.</title>
-      <link>https://jotilux.github.io/konstruktion-mit-cad-sketchup-und-co/</link>
-      <pubDate>Fri, 01 Feb 2013 13:46:21 +0000</pubDate>
-      
-      <guid>https://jotilux.github.io/konstruktion-mit-cad-sketchup-und-co/</guid>
-      <description>**QCAD und LibreCAD **Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software on Eigenbaukombinat</title><link>https://jotilux.github.io/tags/software/</link><description>Recent content in Software on Eigenbaukombinat</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Feb 2013 13:46:21 +0000</lastBuildDate><atom:link href="https://jotilux.github.io/tags/software/index.xml" rel="self" type="application/rss+xml"/><item><title>Konstruktion mit CAD, Sketchup und Co.</title><link>https://jotilux.github.io/konstruktion-mit-cad-sketchup-und-co/</link><pubDate>Fri, 01 Feb 2013 13:46:21 +0000</pubDate><guid>https://jotilux.github.io/konstruktion-mit-cad-sketchup-und-co/</guid><description>**QCAD und LibreCAD **Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.
 * [Kommerzielle Version QCad 3.0 (32 EUR im Download)](http://qcad.org/de/) * [Open-Source LibreCad 2.0 (gratis, aber ohne Tastenkürzelunterstützung)](http://librecad.org/cms/home.html) **Sketchup! **Das bekannte 3D-Zeichenprogramm von Google wurde zur Weiterentwicklung an die Firma Trimble ausgegliedert und ist ab sofort hier herunterzuladen.
-Wer bereits anfangen möchte sich einzuarbeiten findet hier zwei gut gemachte Video-Tutorials der Zeitschrift Holzwerken:</description>
-    </item>
-    
-    <item>
-      <title>Lautsprecher Messsoftware MLS/FFT</title>
-      <link>https://jotilux.github.io/lautsprecher-messsoftware-mlsfft/</link>
-      <pubDate>Wed, 12 Dec 2012 00:04:17 +0000</pubDate>
-      
-      <guid>https://jotilux.github.io/lautsprecher-messsoftware-mlsfft/</guid>
-      <description>Verschiedene Software zum Messen und Einstellen von Lautsprechern:
-http://forum.studiotips.com/viewtopic.php?t=151</description>
-    </item>
-    
-  </channel>
-</rss>
+Wer bereits anfangen möchte sich einzuarbeiten findet hier zwei gut gemachte Video-Tutorials der Zeitschrift Holzwerken:</description></item><item><title>Lautsprecher Messsoftware MLS/FFT</title><link>https://jotilux.github.io/lautsprecher-messsoftware-mlsfft/</link><pubDate>Wed, 12 Dec 2012 00:04:17 +0000</pubDate><guid>https://jotilux.github.io/lautsprecher-messsoftware-mlsfft/</guid><description>Verschiedene Software zum Messen und Einstellen von Lautsprechern:
+http://forum.studiotips.com/viewtopic.php?t=151</description></item></channel></rss>

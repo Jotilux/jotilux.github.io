@@ -1,24 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Baum on Eigenbaukombinat</title>
-    <link>https://jotilux.github.io/tags/baum/</link>
-    <description>Recent content in Baum on Eigenbaukombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Sep 2017 20:39:38 +0000</lastBuildDate>
-    
-	<atom:link href="https://jotilux.github.io/tags/baum/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>*@ebk: Baumtafeln</title>
-      <link>https://jotilux.github.io/ebk-baumtafeln/</link>
-      <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
-      
-      <guid>https://jotilux.github.io/ebk-baumtafeln/</guid>
-      <description>Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen hergestellt.
-[gallery link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;12349,12348,12347,12346,12345,12344&amp;rdquo;]</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Baum on Eigenbaukombinat</title><link>https://jotilux.github.io/tags/baum/</link><description>Recent content in Baum on Eigenbaukombinat</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 13 Sep 2017 20:39:38 +0000</lastBuildDate><atom:link href="https://jotilux.github.io/tags/baum/index.xml" rel="self" type="application/rss+xml"/><item><title>*@ebk: Baumtafeln</title><link>https://jotilux.github.io/ebk-baumtafeln/</link><pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate><guid>https://jotilux.github.io/ebk-baumtafeln/</guid><description>Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen hergestellt.
+[gallery link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;12349,12348,12347,12346,12345,12344&amp;rdquo;]</description></item></channel></rss>

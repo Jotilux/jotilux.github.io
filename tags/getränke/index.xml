@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Getränke on Eigenbaukombinat</title>
-    <link>https://jotilux.github.io/tags/getr%C3%A4nke/</link>
-    <description>Recent content in Getränke on Eigenbaukombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Feb 2019 14:24:31 +0000</lastBuildDate>
-    
-	<atom:link href="https://jotilux.github.io/tags/getr%C3%A4nke/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Genähter Getränkering</title>
-      <link>https://jotilux.github.io/genaehter-getraenkering/</link>
-      <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
-      
-      <guid>https://jotilux.github.io/genaehter-getraenkering/</guid>
-      <description>Wie in jeder Großraum-WG lassen Menschen überall ihre Flaschen stehen und keiner weiß am Ende mehr, welcher Mensch zu welcher Flasche gehört. Und daher hat sich ein schlauer Mensch im Kombinat mal überlegt, Ringe zu lasern oder zu 3-D-druckern, damit man ganz einfach seine Flasche markieren und ggf. wiederfinden kann.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Getränke on Eigenbaukombinat</title><link>https://jotilux.github.io/tags/getr%C3%A4nke/</link><description>Recent content in Getränke on Eigenbaukombinat</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 03 Feb 2019 14:24:31 +0000</lastBuildDate><atom:link href="https://jotilux.github.io/tags/getr%C3%A4nke/index.xml" rel="self" type="application/rss+xml"/><item><title>Genähter Getränkering</title><link>https://jotilux.github.io/genaehter-getraenkering/</link><pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate><guid>https://jotilux.github.io/genaehter-getraenkering/</guid><description>Wie in jeder Großraum-WG lassen Menschen überall ihre Flaschen stehen und keiner weiß am Ende mehr, welcher Mensch zu welcher Flasche gehört. Und daher hat sich ein schlauer Mensch im Kombinat mal überlegt, Ringe zu lasern oder zu 3-D-druckern, damit man ganz einfach seine Flasche markieren und ggf. wiederfinden kann.
 Seit &amp;ldquo;neulich&amp;rdquo; gibt es ein neues Medium, um seine Flasche zu markieren: genäht!
-
 Hier kommt die Anleitung:
-Man braucht:</description>
-    </item>
-    
-  </channel>
-</rss>
+Man braucht:</description></item></channel></rss>
